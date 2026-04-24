@@ -1,6 +1,6 @@
 This repository provides the scripts for numerical simulations and function solvers used in the paper:
 
-> *Energetics of limit-cycle oscillators: when does coupling reduce dissipation?*
+> *Energetics of stochastic limit-cycle oscillators: when does coupling reduce dissipation?*
 
 ## Contents
 
