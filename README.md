@@ -1,4 +1,4 @@
-This repository provides the scripts for numerically simulations and function solvers used in the paper:
+This repository provides the scripts for numerical simulations and function solvers used in the paper:
 
 > *Energetics of limit-cycle oscillators: when does coupling reduce dissipation?*
 
@@ -6,9 +6,6 @@ This repository provides the scripts for numerically simulations and function so
 
 This repository contains:
 
-- Numerical simulation functions defined in ```text
-simulation_utils.py
-- Numerical solver functions defined in ```text
-solver_utils.py
-- Script for example uses of functions in ```text
-example_script.py
+- `simulation_utils.py` — numerical simulation functions
+- `solver_utils.py` — numerical solver functions
+- `example_script.py` — example usage of the functions
