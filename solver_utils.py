@@ -173,6 +173,40 @@ def phasefisher_analytical(k, Delta, T_eff, Rmax=10.0, Nr=400, N=5):
 
     return I
 
+def jphi_analytical(beta, delta, k, r1, r2, N=5):
+    Dphi = (1/beta) * (r1**2 + r2**2)/(r1**2 * r2**2)
+    a = -2*k / Dphi
+    b = delta / Dphi
+    if b != 0:
+        if iv(0,a)*iv(0,-a) != np.inf:
+            def summand(n):
+                return iv(n,a)*iv(n,-a) / (n**2 + b**2)
+            SUM = np.sum([summand(n) for n in range(-N,N+1)])
+            return -Dphi / (2*np.pi*b*SUM)
+        else:
+            return 0
+    else:
+        return 0
+
+def sin2phi_analytical(beta, delta, k, r1, r2, N=5):
+    Dphi = (1/beta) * (r1**2 + r2**2)/(r1**2 * r2**2)
+    a = -2*k / Dphi
+    b = delta / Dphi
+
+    if ive(0, a) * ive(0, -a) != np.inf:
+        def summand(n):
+            return ive(n, a) * ive(n, -a) / (n ** 2 + b ** 2)
+        SUM = np.sum([summand(n) for n in range(-N, N+1)])
+        den =  2 * SUM
+        def summand2(n):
+            return ive(n, a) * (ive(n,-a) - 0.5*ive(n-2,-a)-0.5*ive(n+2,-a)) / (n ** 2 + b ** 2)
+
+        SUM2 = np.sum([summand2(n) for n in range(-N, N+1)])
+        num = SUM2
+        return num/den
+    else:
+        return 2*Dphi / k - Dphi**2 / (8*k**2)
+
 def radial_fisher_averaged(k, Delta, T_eff, Rmax=10.0, Nr=400, N=5):
     """
     Computes the EPR from the radial Fisher information
