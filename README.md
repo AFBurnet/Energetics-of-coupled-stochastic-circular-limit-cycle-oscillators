@@ -1,6 +1,9 @@
-This repository provides the scripts for numerical simulations and function solvers used in the paper:
+This repository provides the scripts for the numerical simulations and numerical evaluation in the paper:
 
 > *Energetics of stochastic limit-cycle oscillators: when does coupling reduce dissipation?*
+
+Preprint: arXiv:2604.24553  
+DOI: https://doi.org/10.48550/arXiv.2604.24553
 
 ## Contents
 
