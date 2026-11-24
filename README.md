@@ -51,9 +51,3 @@ Pass `--outdir` to use a recalculated run. The
 [Download `validation-data.tar.gz` (301 MB)](https://github.com/AFBurnet/Energetics-of-coupled-stochastic-circular-limit-cycle-oscillators/releases/download/revision-update/validation-data.tar.gz). See the
 [bundle instructions](data-bundles/README.md) to restore it and replay the
 checks.
-
-## Original scripts
-
-- [`simulation_utils.py`](simulation_utils.py) provides the original simulation functions.
-- [`solver_utils.py`](solver_utils.py) provides the original numerical solver functions.
-- [`example_script.py`](example_script.py) shows how to use those functions.
