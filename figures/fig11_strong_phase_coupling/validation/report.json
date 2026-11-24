@@ -1,0 +1,530 @@
+{
+  "normalization": {
+    "uncoupled_epr": 9.534573528595379
+  },
+  "uncertainty": "EPR is in simulation units. The manuscript divides by uncoupled EPR and shows one SEM. Checks report pointwise 95% Student intervals. The two estimators share paths. Trajectory changes are refined minus baseline, paired by seed; changing the timestep gives different Brownian paths.",
+  "estimator_benchmarks": [
+    {
+      "k": 32.0,
+      "case": "baseline",
+      "replicas": 12,
+      "stratonovich_epr": {
+        "mean": 80.75208284639909,
+        "sem": 2.185756109391504,
+        "ci95_low": 75.94126608604876,
+        "ci95_high": 85.56289960674943
+      },
+      "observable_epr": {
+        "mean": 81.51359641330605,
+        "sem": 2.255390664253362,
+        "ci95_low": 76.54951503107517,
+        "ci95_high": 86.47767779553692
+      },
+      "stratonovich_minus_observable": {
+        "mean": -0.7615135669069607,
+        "sem": 0.38182814463768977,
+        "ci95_low": -1.6019116469598396,
+        "ci95_high": 0.07888451314591816
+      }
+    },
+    {
+      "k": 64.0,
+      "case": "baseline",
+      "replicas": 12,
+      "stratonovich_epr": {
+        "mean": 175.18394698195175,
+        "sem": 3.801191717086508,
+        "ci95_low": 166.8175804219811,
+        "ci95_high": 183.5503135419224
+      },
+      "observable_epr": {
+        "mean": 175.49408938689945,
+        "sem": 3.7554478754917953,
+        "ci95_low": 167.22840434344434,
+        "ci95_high": 183.75977443035455
+      },
+      "stratonovich_minus_observable": {
+        "mean": -0.31014240494773304,
+        "sem": 0.3097655857231643,
+        "ci95_low": -0.991931862231512,
+        "ci95_high": 0.3716470523360459
+      }
+    },
+    {
+      "k": 128.0,
+      "case": "baseline",
+      "replicas": 12,
+      "stratonovich_epr": {
+        "mean": 401.0620006173756,
+        "sem": 12.926180882660134,
+        "ci95_low": 372.6116683179804,
+        "ci95_high": 429.5123329167708
+      },
+      "observable_epr": {
+        "mean": 401.98142550475245,
+        "sem": 12.952398001843664,
+        "ci95_low": 373.47338971509396,
+        "ci95_high": 430.48946129441094
+      },
+      "stratonovich_minus_observable": {
+        "mean": -0.9194248873768013,
+        "sem": 0.8039176698676602,
+        "ci95_low": -2.68883574869097,
+        "ci95_high": 0.8499859739373677
+      }
+    },
+    {
+      "k": 256.0,
+      "case": "baseline",
+      "replicas": 12,
+      "stratonovich_epr": {
+        "mean": 874.4881686167406,
+        "sem": 33.81939275023001,
+        "ci95_low": 800.0521870501736,
+        "ci95_high": 948.9241501833076
+      },
+      "observable_epr": {
+        "mean": 876.3611112727895,
+        "sem": 34.39808632627845,
+        "ci95_low": 800.6514337330995,
+        "ci95_high": 952.0707888124795
+      },
+      "stratonovich_minus_observable": {
+        "mean": -1.872942656048745,
+        "sem": 1.1300398558256848,
+        "ci95_low": -4.360143609033171,
+        "ci95_high": 0.6142582969356816
+      }
+    }
+  ],
+  "trajectory_refinements": [
+    {
+      "k": 32.0,
+      "case": "dt_half",
+      "replicas": 12,
+      "stratonovich_epr_change": {
+        "mean": 2.0640981352036456,
+        "sem": 2.9121916218463424,
+        "ci95_low": -4.345592407823354,
+        "ci95_high": 8.473788678230646
+      }
+    },
+    {
+      "k": 64.0,
+      "case": "dt_half",
+      "replicas": 12,
+      "stratonovich_epr_change": {
+        "mean": 1.2208378971235803,
+        "sem": 7.83551492436662,
+        "ci95_low": -16.025014173083907,
+        "ci95_high": 18.466689967331067
+      }
+    },
+    {
+      "k": 128.0,
+      "case": "dt_half",
+      "replicas": 12,
+      "stratonovich_epr_change": {
+        "mean": 3.392291053888608,
+        "sem": 17.057048205292695,
+        "ci95_low": -34.15001892092833,
+        "ci95_high": 40.93460102870554
+      }
+    },
+    {
+      "k": 256.0,
+      "case": "dt_half",
+      "replicas": 12,
+      "stratonovich_epr_change": {
+        "mean": 3.002328874072049,
+        "sem": 32.165488934679644,
+        "ci95_low": -67.79343493824965,
+        "ci95_high": 73.79809268639374
+      }
+    },
+    {
+      "k": 32.0,
+      "case": "dt_quarter",
+      "replicas": 12,
+      "stratonovich_epr_change": {
+        "mean": 4.856824801345035,
+        "sem": 2.147358185027551,
+        "ci95_low": 0.1305213026980807,
+        "ci95_high": 9.58312829999199
+      }
+    },
+    {
+      "k": 64.0,
+      "case": "dt_quarter",
+      "replicas": 12,
+      "stratonovich_epr_change": {
+        "mean": 8.631290573109894,
+        "sem": 5.174578009525855,
+        "ci95_low": -2.7578788355930417,
+        "ci95_high": 20.020459981812827
+      }
+    },
+    {
+      "k": 128.0,
+      "case": "dt_quarter",
+      "replicas": 12,
+      "stratonovich_epr_change": {
+        "mean": -10.95337231637395,
+        "sem": 22.424521403996597,
+        "ci95_low": -60.30941114872777,
+        "ci95_high": 38.40266651597987
+      }
+    },
+    {
+      "k": 256.0,
+      "case": "dt_quarter",
+      "replicas": 12,
+      "stratonovich_epr_change": {
+        "mean": 13.766721909924106,
+        "sem": 47.84992976481866,
+        "ci95_low": -91.55026341386895,
+        "ci95_high": 119.08370723371715
+      }
+    },
+    {
+      "k": 32.0,
+      "case": "burn",
+      "replicas": 12,
+      "stratonovich_epr_change": {
+        "mean": 0.4273037507102894,
+        "sem": 1.2045044493851165,
+        "ci95_low": -2.223792667650702,
+        "ci95_high": 3.0784001690712803
+      }
+    },
+    {
+      "k": 64.0,
+      "case": "burn",
+      "replicas": 12,
+      "stratonovich_epr_change": {
+        "mean": 3.6967221706185924,
+        "sem": 3.205683776692915,
+        "ci95_low": -3.358940249829031,
+        "ci95_high": 10.752384591066216
+      }
+    },
+    {
+      "k": 128.0,
+      "case": "burn",
+      "replicas": 12,
+      "stratonovich_epr_change": {
+        "mean": 13.726457904415492,
+        "sem": 6.7930972465433435,
+        "ci95_low": -1.2250483262857763,
+        "ci95_high": 28.67796413511676
+      }
+    },
+    {
+      "k": 256.0,
+      "case": "burn",
+      "replicas": 12,
+      "stratonovich_epr_change": {
+        "mean": -5.446414292596255,
+        "sem": 17.278786760600543,
+        "ci95_low": -43.47676753706592,
+        "ci95_high": 32.583938951873414
+      }
+    },
+    {
+      "k": 32.0,
+      "case": "duration",
+      "replicas": 12,
+      "stratonovich_epr_change": {
+        "mean": 0.8981525631584001,
+        "sem": 1.6056976598531636,
+        "ci95_low": -2.6359641577722845,
+        "ci95_high": 4.4322692840890845
+      }
+    },
+    {
+      "k": 64.0,
+      "case": "duration",
+      "replicas": 12,
+      "stratonovich_epr_change": {
+        "mean": 4.02042232663418,
+        "sem": 4.237227518648501,
+        "ci95_low": -5.305652561843087,
+        "ci95_high": 13.346497215111448
+      }
+    },
+    {
+      "k": 128.0,
+      "case": "duration",
+      "replicas": 12,
+      "stratonovich_epr_change": {
+        "mean": 5.647574330342067,
+        "sem": 6.302307468371439,
+        "ci95_low": -8.223710881878173,
+        "ci95_high": 19.518859542562307
+      }
+    },
+    {
+      "k": 256.0,
+      "case": "duration",
+      "replicas": 12,
+      "stratonovich_epr_change": {
+        "mean": -13.135494966847611,
+        "sem": 17.985294208857653,
+        "ci95_low": -52.720860620425384,
+        "ci95_high": 26.449870686730165
+      }
+    }
+  ],
+  "stationary_pde_checks": [
+    {
+      "k": 32.0,
+      "case": "baseline",
+      "stationary_pde_epr": 81.02842441526187,
+      "relative_change": 0.0,
+      "nr": 40,
+      "modes": 46,
+      "rmax": 5.0
+    },
+    {
+      "k": 64.0,
+      "case": "baseline",
+      "stationary_pde_epr": 177.92125631575146,
+      "relative_change": 0.0,
+      "nr": 40,
+      "modes": 64,
+      "rmax": 5.0
+    },
+    {
+      "k": 128.0,
+      "case": "baseline",
+      "stationary_pde_epr": 394.20567883541986,
+      "relative_change": 0.0,
+      "nr": 40,
+      "modes": 91,
+      "rmax": 5.0
+    },
+    {
+      "k": 256.0,
+      "case": "baseline",
+      "stationary_pde_epr": 871.8839608707252,
+      "relative_change": 0.0,
+      "nr": 40,
+      "modes": 128,
+      "rmax": 5.0
+    },
+    {
+      "k": 32.0,
+      "case": "radial_60",
+      "stationary_pde_epr": 81.07046092639972,
+      "relative_change": 0.0005187872211659826,
+      "nr": 60,
+      "modes": 46,
+      "rmax": 5.0
+    },
+    {
+      "k": 64.0,
+      "case": "radial_60",
+      "stationary_pde_epr": 178.03962043125492,
+      "relative_change": 0.0006652612394631274,
+      "nr": 60,
+      "modes": 64,
+      "rmax": 5.0
+    },
+    {
+      "k": 128.0,
+      "case": "radial_60",
+      "stationary_pde_epr": 394.5403089269184,
+      "relative_change": 0.0008488718186077487,
+      "nr": 60,
+      "modes": 91,
+      "rmax": 5.0
+    },
+    {
+      "k": 256.0,
+      "case": "radial_60",
+      "stationary_pde_epr": 872.8308847745666,
+      "relative_change": 0.0010860664335374409,
+      "nr": 60,
+      "modes": 128,
+      "rmax": 5.0
+    },
+    {
+      "k": 32.0,
+      "case": "radial_80",
+      "stationary_pde_epr": 81.08516668369244,
+      "relative_change": 0.0007002760924952747,
+      "nr": 80,
+      "modes": 46,
+      "rmax": 5.0
+    },
+    {
+      "k": 64.0,
+      "case": "radial_80",
+      "stationary_pde_epr": 178.08102088145534,
+      "relative_change": 0.0008979509756852871,
+      "nr": 80,
+      "modes": 64,
+      "rmax": 5.0
+    },
+    {
+      "k": 128.0,
+      "case": "radial_80",
+      "stationary_pde_epr": 394.65731945511794,
+      "relative_change": 0.0011456979032680083,
+      "nr": 80,
+      "modes": 91,
+      "rmax": 5.0
+    },
+    {
+      "k": 256.0,
+      "case": "radial_80",
+      "stationary_pde_epr": 873.1618506118346,
+      "relative_change": 0.0014656649261366645,
+      "nr": 80,
+      "modes": 128,
+      "rmax": 5.0
+    },
+    {
+      "k": 32.0,
+      "case": "fourier",
+      "stationary_pde_epr": 81.02822640051008,
+      "relative_change": -2.4437690010307226e-06,
+      "nr": 40,
+      "modes": 69,
+      "rmax": 5.0
+    },
+    {
+      "k": 64.0,
+      "case": "fourier",
+      "stationary_pde_epr": 177.92048278863768,
+      "relative_change": -4.347581226642347e-06,
+      "nr": 40,
+      "modes": 96,
+      "rmax": 5.0
+    },
+    {
+      "k": 128.0,
+      "case": "fourier",
+      "stationary_pde_epr": 394.2065947488799,
+      "relative_change": 2.32344055206939e-06,
+      "nr": 40,
+      "modes": 137,
+      "rmax": 5.0
+    },
+    {
+      "k": 256.0,
+      "case": "fourier",
+      "stationary_pde_epr": 871.8836895758692,
+      "relative_change": -3.111593608732547e-07,
+      "nr": 40,
+      "modes": 192,
+      "rmax": 5.0
+    },
+    {
+      "k": 32.0,
+      "case": "domain",
+      "stationary_pde_epr": 81.02842441519577,
+      "relative_change": -8.156975253730277e-13,
+      "nr": 44,
+      "modes": 46,
+      "rmax": 6.050000000000001
+    },
+    {
+      "k": 64.0,
+      "case": "domain",
+      "stationary_pde_epr": 177.92125631561214,
+      "relative_change": -7.830611277867089e-13,
+      "nr": 44,
+      "modes": 64,
+      "rmax": 6.050000000000001
+    },
+    {
+      "k": 128.0,
+      "case": "domain",
+      "stationary_pde_epr": 394.20567883495994,
+      "relative_change": -1.1667008536292888e-12,
+      "nr": 44,
+      "modes": 91,
+      "rmax": 6.050000000000001
+    },
+    {
+      "k": 256.0,
+      "case": "domain",
+      "stationary_pde_epr": 871.8839608299435,
+      "relative_change": -4.677427760773413e-11,
+      "nr": 44,
+      "modes": 128,
+      "rmax": 6.050000000000001
+    },
+    {
+      "k": 32.0,
+      "case": "combined",
+      "stationary_pde_epr": 81.07026307785416,
+      "relative_change": 0.0005163455033739659,
+      "nr": 60,
+      "modes": 69,
+      "rmax": 5.0
+    },
+    {
+      "k": 64.0,
+      "case": "combined",
+      "stationary_pde_epr": 178.03884747228003,
+      "relative_change": 0.0006609168514405958,
+      "nr": 60,
+      "modes": 96,
+      "rmax": 5.0
+    },
+    {
+      "k": 128.0,
+      "case": "combined",
+      "stationary_pde_epr": 394.5412270253583,
+      "relative_change": 0.0008512008019004885,
+      "nr": 60,
+      "modes": 137,
+      "rmax": 5.0
+    },
+    {
+      "k": 256.0,
+      "case": "combined",
+      "stationary_pde_epr": 872.830597933664,
+      "relative_change": 0.0010857374437687436,
+      "nr": 60,
+      "modes": 192,
+      "rmax": 5.0
+    }
+  ],
+  "asymptotic_comparison": [
+    {
+      "k": 32.0,
+      "stationary_pde_epr": 81.02842441526187,
+      "leading": 61.75965511442905,
+      "two_term": 78.82945051276315,
+      "leading_relative_difference": -0.23780259137315157,
+      "two_term_relative_difference": -0.02713830261871093
+    },
+    {
+      "k": 64.0,
+      "stationary_pde_epr": 177.92125631575146,
+      "leading": 141.54897080461296,
+      "two_term": 175.68856160128115,
+      "leading_relative_difference": -0.20442911805090735,
+      "two_term_relative_difference": -0.012548780065424094
+    },
+    {
+      "k": 128.0,
+      "stationary_pde_epr": 394.20567883541986,
+      "leading": 323.92454952503334,
+      "two_term": 392.2037311183697,
+      "leading_relative_difference": -0.1782854308898192,
+      "two_term_relative_difference": -0.005078434493801275
+    },
+    {
+      "k": 256.0,
+      "stationary_pde_epr": 871.8839608707252,
+      "leading": 734.269601645979,
+      "two_term": 870.8279648326518,
+      "leading_relative_difference": -0.15783563570468107,
+      "two_term_relative_difference": -0.0012111658035535353
+    }
+  ]
+}

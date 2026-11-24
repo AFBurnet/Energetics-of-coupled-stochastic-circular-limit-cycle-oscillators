@@ -1,0 +1,27 @@
+__pycache__/
+.venv/
+*.py[cod]
+*.nbc
+*.nbi
+.matplotlib/
+.DS_Store
+*.icloud
+results/
+
+# Regenerated figures
+/figures/**/figures/*.png
+/figures/**/figures/*.svg
+/figures/**/figures/*.eps
+
+# Raw validation archive and restored records.
+/data-bundles/validation-data.tar.gz
+/figures/fig02_radial_pair/data/replicas.npz
+/figures/fig03_radial_population/data/replicas.npz
+/figures/fig04_phase_coupling/data/replicas.npz
+/figures/fig04_phase_coupling/data/validation_replicas.npz
+/figures/fig04_phase_coupling/data/minimum_rows/
+/figures/fig05_cartesian_pair/data/replicas.npz
+/figures/fig06_cartesian_population/data/replicas.npz
+/figures/fig07_single_coordinate/epr/data/replicas.npz
+/figures/fig07_single_coordinate/epr/long_runs/data/replicas.npz
+/figures/fig07_single_coordinate/frequency/data/runs/

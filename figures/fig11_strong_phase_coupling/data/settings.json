@@ -1,0 +1,88 @@
+{
+  "k": [
+    32.0,
+    64.0,
+    128.0,
+    256.0
+  ],
+  "T_eff": 1.0,
+  "omega_bar": 1.0,
+  "delta_omega": 2.0,
+  "sigma0": 9.534573528595379,
+  "tail_from": 32.0,
+  "theory": {
+    "m2": 2.3836433821488447,
+    "p00": 0.43118135772227123,
+    "H": 0.39067619683906196,
+    "A": 0.5138912949203227,
+    "B": 0.5334311061979404,
+    "inner_C": 0.58592,
+    "sigma_psi": 4.7672867642976895
+  },
+  "simulation": {
+    "burn": 30.0,
+    "duration": 200.0,
+    "dt_max": 0.002,
+    "step_scale": 0.005,
+    "seed": 7321,
+    "n_replicas": 12
+  },
+  "pde": {
+    "nr": 40,
+    "rmax": 5.0,
+    "modes": 0
+  },
+  "trajectory_refinements": {
+    "dt_half": {
+      "dt_max": 0.001,
+      "step_scale": 0.0025
+    },
+    "dt_quarter": {
+      "dt_max": 0.0005,
+      "step_scale": 0.00125
+    },
+    "burn": {
+      "burn": 60.0
+    },
+    "duration": {
+      "duration": 400.0
+    }
+  },
+  "pde_refinements": {
+    "radial_60": {
+      "nr": 60
+    },
+    "radial_80": {
+      "nr": 80
+    },
+    "fourier": {
+      "mode_set": "refined"
+    },
+    "domain": {
+      "nr": 44,
+      "rmax": 6.050000000000001
+    },
+    "combined": {
+      "nr": 60,
+      "mode_set": "refined"
+    }
+  },
+  "fourier_modes": {
+    "k32": {
+      "baseline": 46,
+      "refined": 69
+    },
+    "k64": {
+      "baseline": 64,
+      "refined": 96
+    },
+    "k128": {
+      "baseline": 91,
+      "refined": 137
+    },
+    "k256": {
+      "baseline": 128,
+      "refined": 192
+    }
+  }
+}

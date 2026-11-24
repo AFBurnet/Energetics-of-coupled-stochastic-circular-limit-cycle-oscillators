@@ -1,0 +1,292 @@
+{
+  "rows": [
+    {
+      "number": 2,
+      "k": 0.0,
+      "stratonovich_epr": 1.0023681655601924,
+      "stratonovich_epr_sem": 0.005485798480385209,
+      "radial_moment_epr": 1.0005586825302482,
+      "radial_moment_epr_sem": 0.0006191545169302544
+    },
+    {
+      "number": 2,
+      "k": 0.5,
+      "stratonovich_epr": 0.9744215939924287,
+      "stratonovich_epr_sem": 0.005453958286898303,
+      "radial_moment_epr": 0.9822996112478739,
+      "radial_moment_epr_sem": 0.0006282933491318613
+    },
+    {
+      "number": 2,
+      "k": 1.0,
+      "stratonovich_epr": 0.9679827971135662,
+      "stratonovich_epr_sem": 0.005384583136203396,
+      "radial_moment_epr": 0.9722385440485417,
+      "radial_moment_epr_sem": 0.0006447391864254447
+    },
+    {
+      "number": 2,
+      "k": 2.0,
+      "stratonovich_epr": 0.9543547072098721,
+      "stratonovich_epr_sem": 0.005427931643731546,
+      "radial_moment_epr": 0.9592364632928909,
+      "radial_moment_epr_sem": 0.0006385199087853365
+    },
+    {
+      "number": 2,
+      "k": 4.0,
+      "stratonovich_epr": 0.9489484147754337,
+      "stratonovich_epr_sem": 0.005380940616583921,
+      "radial_moment_epr": 0.9493302696065227,
+      "radial_moment_epr_sem": 0.000669450342939572
+    },
+    {
+      "number": 2,
+      "k": 6.0,
+      "stratonovich_epr": 0.9503247159752612,
+      "stratonovich_epr_sem": 0.005316244155835062,
+      "radial_moment_epr": 0.9439068255458443,
+      "radial_moment_epr_sem": 0.0006739462510474375
+    },
+    {
+      "number": 2,
+      "k": 10.0,
+      "stratonovich_epr": 0.9430913726570282,
+      "stratonovich_epr_sem": 0.005328937650390267,
+      "radial_moment_epr": 0.9397406960866685,
+      "radial_moment_epr_sem": 0.0006933496822933349
+    },
+    {
+      "number": 2,
+      "k": 14.0,
+      "stratonovich_epr": 0.930460443939176,
+      "stratonovich_epr_sem": 0.005246011959804239,
+      "radial_moment_epr": 0.9357136872991831,
+      "radial_moment_epr_sem": 0.0006946486822443024
+    },
+    {
+      "number": 2,
+      "k": 18.0,
+      "stratonovich_epr": 0.9312474872021763,
+      "stratonovich_epr_sem": 0.005115638127269639,
+      "radial_moment_epr": 0.9353759919052576,
+      "radial_moment_epr_sem": 0.0006848499004717022
+    },
+    {
+      "number": 4,
+      "k": 0.0,
+      "stratonovich_epr": 1.0016390085397933,
+      "stratonovich_epr_sem": 0.003906776528590466,
+      "radial_moment_epr": 1.0000613270953993,
+      "radial_moment_epr_sem": 0.000445669834188654
+    },
+    {
+      "number": 4,
+      "k": 0.5,
+      "stratonovich_epr": 0.9510006407612965,
+      "stratonovich_epr_sem": 0.0039053511197409576,
+      "radial_moment_epr": 0.9583551431359392,
+      "radial_moment_epr_sem": 0.00046810048243368485
+    },
+    {
+      "number": 4,
+      "k": 1.0,
+      "stratonovich_epr": 0.939629147713916,
+      "stratonovich_epr_sem": 0.0037906565961581718,
+      "radial_moment_epr": 0.9395167897798351,
+      "radial_moment_epr_sem": 0.000481067466441395
+    },
+    {
+      "number": 4,
+      "k": 2.0,
+      "stratonovich_epr": 0.9257198212674022,
+      "stratonovich_epr_sem": 0.003735449742962188,
+      "radial_moment_epr": 0.923550651271983,
+      "radial_moment_epr_sem": 0.0004931720239634362
+    },
+    {
+      "number": 4,
+      "k": 4.0,
+      "stratonovich_epr": 0.9143799397359346,
+      "stratonovich_epr_sem": 0.0038020199797533343,
+      "radial_moment_epr": 0.9139229200131893,
+      "radial_moment_epr_sem": 0.0005044647996062665
+    },
+    {
+      "number": 4,
+      "k": 6.0,
+      "stratonovich_epr": 0.9086412620637201,
+      "stratonovich_epr_sem": 0.0037391223945281143,
+      "radial_moment_epr": 0.9101742435408802,
+      "radial_moment_epr_sem": 0.0005205601961668011
+    },
+    {
+      "number": 4,
+      "k": 10.0,
+      "stratonovich_epr": 0.9076725095505124,
+      "stratonovich_epr_sem": 0.0037893595564022988,
+      "radial_moment_epr": 0.9076990979080408,
+      "radial_moment_epr_sem": 0.0005151077838068238
+    },
+    {
+      "number": 4,
+      "k": 14.0,
+      "stratonovich_epr": 0.8995565876363664,
+      "stratonovich_epr_sem": 0.0037746447401857193,
+      "radial_moment_epr": 0.9068710295320207,
+      "radial_moment_epr_sem": 0.0005268757487957699
+    },
+    {
+      "number": 4,
+      "k": 18.0,
+      "stratonovich_epr": 0.9096362720975802,
+      "stratonovich_epr_sem": 0.003748536846305603,
+      "radial_moment_epr": 0.9053876984960201,
+      "radial_moment_epr_sem": 0.0005122182845379138
+    },
+    {
+      "number": 8,
+      "k": 0.0,
+      "stratonovich_epr": 1.0007910348805267,
+      "stratonovich_epr_sem": 0.002690076236815804,
+      "radial_moment_epr": 1.0000475064224803,
+      "radial_moment_epr_sem": 0.000316750315016116
+    },
+    {
+      "number": 8,
+      "k": 0.5,
+      "stratonovich_epr": 0.9299440376150233,
+      "stratonovich_epr_sem": 0.0026586637881529087,
+      "radial_moment_epr": 0.9295577836320614,
+      "radial_moment_epr_sem": 0.00034468559596680413
+    },
+    {
+      "number": 8,
+      "k": 1.0,
+      "stratonovich_epr": 0.9125137781234425,
+      "stratonovich_epr_sem": 0.002726488390346169,
+      "radial_moment_epr": 0.9130697391350926,
+      "radial_moment_epr_sem": 0.000353990862009249
+    },
+    {
+      "number": 8,
+      "k": 2.0,
+      "stratonovich_epr": 0.9047780379592816,
+      "stratonovich_epr_sem": 0.0026104127757330935,
+      "radial_moment_epr": 0.9028720347081435,
+      "radial_moment_epr_sem": 0.00036446310359458526
+    },
+    {
+      "number": 8,
+      "k": 4.0,
+      "stratonovich_epr": 0.8990561938699468,
+      "stratonovich_epr_sem": 0.002629824145206583,
+      "radial_moment_epr": 0.8978301877230779,
+      "radial_moment_epr_sem": 0.00037892344312722396
+    },
+    {
+      "number": 8,
+      "k": 6.0,
+      "stratonovich_epr": 0.8937431465654306,
+      "stratonovich_epr_sem": 0.0026328627024034346,
+      "radial_moment_epr": 0.8964052589184182,
+      "radial_moment_epr_sem": 0.00036635040599119703
+    },
+    {
+      "number": 8,
+      "k": 10.0,
+      "stratonovich_epr": 0.8984714114558376,
+      "stratonovich_epr_sem": 0.002689128236013224,
+      "radial_moment_epr": 0.8967517755480529,
+      "radial_moment_epr_sem": 0.00036704247642035807
+    },
+    {
+      "number": 8,
+      "k": 14.0,
+      "stratonovich_epr": 0.8971408301439555,
+      "stratonovich_epr_sem": 0.002577294871684494,
+      "radial_moment_epr": 0.8955914761411307,
+      "radial_moment_epr_sem": 0.0003829902974766996
+    },
+    {
+      "number": 8,
+      "k": 18.0,
+      "stratonovich_epr": 0.8912725011678286,
+      "stratonovich_epr_sem": 0.002592801876005426,
+      "radial_moment_epr": 0.8946505908064629,
+      "radial_moment_epr_sem": 0.00037424233013034683
+    },
+    {
+      "number": 16,
+      "k": 0.0,
+      "stratonovich_epr": 1.0008132563722918,
+      "stratonovich_epr_sem": 0.0019735155465369966,
+      "radial_moment_epr": 1.0003290061257548,
+      "radial_moment_epr_sem": 0.0002188397652360701
+    },
+    {
+      "number": 16,
+      "k": 0.5,
+      "stratonovich_epr": 0.9122170041339586,
+      "stratonovich_epr_sem": 0.0018784028471124994,
+      "radial_moment_epr": 0.9077042549645304,
+      "radial_moment_epr_sem": 0.0002544178552327841
+    },
+    {
+      "number": 16,
+      "k": 1.0,
+      "stratonovich_epr": 0.8972406018356475,
+      "stratonovich_epr_sem": 0.001881271647676151,
+      "radial_moment_epr": 0.8984246652279976,
+      "radial_moment_epr_sem": 0.0002666276206573755
+    },
+    {
+      "number": 16,
+      "k": 2.0,
+      "stratonovich_epr": 0.892822772776978,
+      "stratonovich_epr_sem": 0.0018743159155050922,
+      "radial_moment_epr": 0.8946915876109804,
+      "radial_moment_epr_sem": 0.0002779519924938773
+    },
+    {
+      "number": 16,
+      "k": 4.0,
+      "stratonovich_epr": 0.8917659543723265,
+      "stratonovich_epr_sem": 0.0018237813455746542,
+      "radial_moment_epr": 0.8925958724076519,
+      "radial_moment_epr_sem": 0.0002713592546517503
+    },
+    {
+      "number": 16,
+      "k": 6.0,
+      "stratonovich_epr": 0.8944870052061327,
+      "stratonovich_epr_sem": 0.0018786863778361106,
+      "radial_moment_epr": 0.8921050863694939,
+      "radial_moment_epr_sem": 0.0002793519317003408
+    },
+    {
+      "number": 16,
+      "k": 10.0,
+      "stratonovich_epr": 0.8884302575380623,
+      "stratonovich_epr_sem": 0.0018610779884651713,
+      "radial_moment_epr": 0.8911800717078704,
+      "radial_moment_epr_sem": 0.0002704052527532903
+    },
+    {
+      "number": 16,
+      "k": 14.0,
+      "stratonovich_epr": 0.8920338214172971,
+      "stratonovich_epr_sem": 0.0017749670213751164,
+      "radial_moment_epr": 0.8911563036161008,
+      "radial_moment_epr_sem": 0.00026873827784814144
+    },
+    {
+      "number": 16,
+      "k": 18.0,
+      "stratonovich_epr": 0.8880906190665602,
+      "stratonovich_epr_sem": 0.0018237318982048552,
+      "radial_moment_epr": 0.8905150920603224,
+      "radial_moment_epr_sem": 0.0002728451340660774
+    }
+  ]
+}

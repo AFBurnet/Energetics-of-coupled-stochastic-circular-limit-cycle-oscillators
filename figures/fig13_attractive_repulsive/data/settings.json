@@ -1,0 +1,43 @@
+{
+  "betas": [
+    3.3333333333333335,
+    10.0
+  ],
+  "k_range": [
+    -0.2,
+    0.2
+  ],
+  "phase_beta": 1.0,
+  "phase_check_k": [
+    0.05,
+    0.1,
+    0.2
+  ],
+  "phase_detunings": [
+    1.0,
+    4.0
+  ],
+  "phase_domain_nr": 115,
+  "phase_domain_rmax": 6.0,
+  "phase_mean_frequency": 1.1,
+  "phase_modes": 8,
+  "phase_nr": 64,
+  "phase_positive_points": 41,
+  "phase_refinement_modes": 12,
+  "phase_refinement_nr": 96,
+  "phase_rmax": 5.0,
+  "phase_weak_nr": 96,
+  "phase_weak_rmax": 5.0,
+  "quadrature_check_k": [
+    -0.2,
+    -0.1,
+    0.0,
+    0.1,
+    0.2
+  ],
+  "quadrature_order": 128,
+  "quadrature_rmax": 6.0,
+  "refinement_order": 192,
+  "refinement_rmax": 7.0,
+  "signed_points": 161
+}

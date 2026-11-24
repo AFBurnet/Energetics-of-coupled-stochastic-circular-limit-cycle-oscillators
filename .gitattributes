@@ -1,0 +1,6 @@
+# Scientific inputs and source fingerprints must retain their exact bytes.
+* -text
+# Matplotlib SVG formatting and recorded CSV line endings are intentional.
+*.svg -whitespace
+*.eps -whitespace
+*.csv whitespace=blank-at-eol,blank-at-eof,space-before-tab,cr-at-eol

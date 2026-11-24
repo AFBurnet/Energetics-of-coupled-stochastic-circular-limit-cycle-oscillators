@@ -1,0 +1,40 @@
+{
+  "pair": {
+    "T_eff": 1.0,
+    "omegas": [
+      1.1,
+      1.1
+    ],
+    "k": [
+      0.0,
+      0.25,
+      0.5,
+      1.0,
+      2.0,
+      3.0,
+      5.0,
+      7.5,
+      10.0
+    ],
+    "sample_dt": 0.025,
+    "lag_count": 64,
+    "bootstrap": 2000
+  },
+  "population": {
+    "T_eff": 1.0,
+    "omega": 1.1,
+    "K": 20.0,
+    "sizes": [
+      2,
+      5,
+      10,
+      20,
+      50
+    ],
+    "sample_dt": 0.025,
+    "lag_count": 64,
+    "max_lag_step": 0.25,
+    "bootstrap": 2000,
+    "published_case": "67537de2a3eee7ec4d15eaf3"
+  }
+}

@@ -1,0 +1,17 @@
+check,number,beta,k,comparison,quantity,baseline,refined,absolute_difference
+quadrature,2,0.8,0.001,extend_domains_and_tighten_tolerance,normalized_epr,0.9999565744668707,0.9999565744668705,2.220446049250313e-16
+quadrature,2,0.8,0.5,extend_domains_and_tighten_tolerance,normalized_epr,0.9830062519323369,0.9830062519323369,0.0
+quadrature,2,0.8,19.0,extend_domains_and_tighten_tolerance,normalized_epr,0.9348618798922365,0.9348618798922366,1.1102230246251565e-16
+quadrature,4,0.8,0.001,extend_domains_and_tighten_tolerance,normalized_epr,0.9998697855278429,0.9998697855278431,2.220446049250313e-16
+quadrature,4,0.8,0.5,extend_domains_and_tighten_tolerance,normalized_epr,0.957936698451668,0.957936698451668,0.0
+quadrature,4,0.8,19.0,extend_domains_and_tighten_tolerance,normalized_epr,0.9057925276722656,0.9057925276722825,1.687538997430238e-14
+quadrature,8,0.8,0.001,extend_domains_and_tighten_tolerance,normalized_epr,0.9996964558532025,0.9996964558532022,3.3306690738754696e-16
+quadrature,8,0.8,0.5,extend_domains_and_tighten_tolerance,normalized_epr,0.9294033783902712,0.9294033783902714,2.220446049250313e-16
+quadrature,8,0.8,19.0,extend_domains_and_tighten_tolerance,normalized_epr,0.8951301038549774,0.8951301038549744,2.9976021664879227e-15
+quadrature,16,0.8,0.001,extend_domains_and_tighten_tolerance,normalized_epr,0.9993507868789356,0.999350786878936,3.3306690738754696e-16
+quadrature,16,0.8,0.5,extend_domains_and_tighten_tolerance,normalized_epr,0.9077261497257397,0.9077261497257396,1.1102230246251565e-16
+quadrature,16,0.8,19.0,extend_domains_and_tighten_tolerance,normalized_epr,0.8910240467534958,0.8910240467534961,3.3306690738754696e-16
+strong_limit,2,0.1,,double_decimal_digits,normalized_epr,0.8927127840969988,0.8927127840969988,0.0
+strong_limit,2,10.0,,double_decimal_digits,normalized_epr,1.013238379129554,1.013238379129554,0.0
+strong_limit,16,0.1,,double_decimal_digits,normalized_epr,0.8110291716606439,0.8110291716606439,0.0
+strong_limit,16,10.0,,double_decimal_digits,normalized_epr,1.031581240548818,1.031581240548818,0.0

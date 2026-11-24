@@ -1,0 +1,18 @@
+{
+  "beta_grid": {
+    "start": 0.01,
+    "stop": 20.0,
+    "points": 100
+  },
+  "small_k_grid": {
+    "start": 0.0,
+    "stop": 3.0,
+    "points": 100
+  },
+  "large_k_grid": {
+    "start": 20.0,
+    "stop": 40.0,
+    "points": 100
+  },
+  "radial_points": 600
+}

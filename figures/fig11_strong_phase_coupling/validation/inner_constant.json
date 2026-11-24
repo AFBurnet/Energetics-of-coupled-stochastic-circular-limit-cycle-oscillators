@@ -1,0 +1,173 @@
+{
+  "reference_C": 0.58592,
+  "finest_C": 0.585922686788739,
+  "extrapolated_C": 0.5859227270405263,
+  "second_order_extrapolations": [
+    0.5859227270320589,
+    0.5859227270333774,
+    0.5859227270405263
+  ],
+  "last_extrapolation_change": 7.1488370778638455e-12,
+  "comparisons": [
+    {
+      "family": "radial",
+      "modes": 192,
+      "intervals": 1024,
+      "rmin": 1e-06,
+      "rmax": 32.0,
+      "C": 0.5859201510373322
+    },
+    {
+      "family": "radial",
+      "modes": 192,
+      "intervals": 2048,
+      "rmin": 1e-06,
+      "rmax": 32.0,
+      "C": 0.5859220830333772
+    },
+    {
+      "family": "radial",
+      "modes": 192,
+      "intervals": 4096,
+      "rmin": 1e-06,
+      "rmax": 32.0,
+      "C": 0.5859225660333773
+    },
+    {
+      "family": "radial",
+      "modes": 192,
+      "intervals": 8192,
+      "rmin": 1e-06,
+      "rmax": 32.0,
+      "C": 0.585922686788739
+    },
+    {
+      "family": "modes",
+      "modes": 48,
+      "intervals": 4096,
+      "rmin": 1e-06,
+      "rmax": 24.0,
+      "C": 0.5568081870121363
+    },
+    {
+      "family": "modes",
+      "modes": 64,
+      "intervals": 4096,
+      "rmin": 1e-06,
+      "rmax": 24.0,
+      "C": 0.5827732428667173
+    },
+    {
+      "family": "modes",
+      "modes": 96,
+      "intervals": 4096,
+      "rmin": 1e-06,
+      "rmax": 24.0,
+      "C": 0.5859116997661068
+    },
+    {
+      "family": "modes",
+      "modes": 128,
+      "intervals": 4096,
+      "rmin": 1e-06,
+      "rmax": 24.0,
+      "C": 0.5859225767208175
+    },
+    {
+      "family": "modes",
+      "modes": 144,
+      "intervals": 4096,
+      "rmin": 1e-06,
+      "rmax": 24.0,
+      "C": 0.5859225839707571
+    },
+    {
+      "family": "modes",
+      "modes": 192,
+      "intervals": 4096,
+      "rmin": 1e-06,
+      "rmax": 24.0,
+      "C": 0.5859225840733894
+    },
+    {
+      "family": "domain",
+      "modes": 48,
+      "intervals": 4096,
+      "rmin": 1e-06,
+      "rmax": 8.0,
+      "C": 0.5859287805509358
+    },
+    {
+      "family": "domain",
+      "modes": 72,
+      "intervals": 4096,
+      "rmin": 1e-06,
+      "rmax": 12.0,
+      "C": 0.585923148410848
+    },
+    {
+      "family": "domain",
+      "modes": 96,
+      "intervals": 4096,
+      "rmin": 1e-06,
+      "rmax": 16.0,
+      "C": 0.5859227037103499
+    },
+    {
+      "family": "domain",
+      "modes": 144,
+      "intervals": 4096,
+      "rmin": 1e-06,
+      "rmax": 24.0,
+      "C": 0.5859225839707571
+    },
+    {
+      "family": "domain",
+      "modes": 192,
+      "intervals": 4096,
+      "rmin": 1e-06,
+      "rmax": 32.0,
+      "C": 0.5859225660333773
+    },
+    {
+      "family": "domain",
+      "modes": 288,
+      "intervals": 4096,
+      "rmin": 1e-06,
+      "rmax": 48.0,
+      "C": 0.585922554965444
+    },
+    {
+      "family": "origin",
+      "modes": 144,
+      "intervals": 4096,
+      "rmin": 0.0001,
+      "rmax": 24.0,
+      "C": 0.5859226565446257
+    },
+    {
+      "family": "origin",
+      "modes": 144,
+      "intervals": 4096,
+      "rmin": 1e-05,
+      "rmax": 24.0,
+      "C": 0.5859226232531144
+    },
+    {
+      "family": "origin",
+      "modes": 144,
+      "intervals": 4096,
+      "rmin": 1e-06,
+      "rmax": 24.0,
+      "C": 0.5859225839707571
+    },
+    {
+      "family": "origin",
+      "modes": 144,
+      "intervals": 4096,
+      "rmin": 1e-07,
+      "rmax": 24.0,
+      "C": 0.5859225389350574
+    }
+  ]
+}

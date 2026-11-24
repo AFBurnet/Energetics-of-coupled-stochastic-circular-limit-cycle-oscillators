@@ -1,0 +1,145 @@
+{
+  "model": {
+    "T_eff": 1.0,
+    "omega_bar": 1.1,
+    "deltas": [
+      4.0,
+      1.0,
+      0.0
+    ]
+  },
+  "simulation": {
+    "n_replicas": 64,
+    "burn": 100.0,
+    "duration": 2000.0,
+    "dt_max": 0.0005,
+    "step_scale": 0.00125,
+    "seed": 7321
+  },
+  "mesh": {
+    "nr": 40,
+    "rmax": 5.0,
+    "modes": 48
+  },
+  "simulation_k": [
+    0.0,
+    0.5,
+    1.0,
+    1.5,
+    2.0,
+    2.5,
+    3.0,
+    3.5,
+    4.0,
+    4.5,
+    5.0,
+    5.5,
+    6.0,
+    6.5,
+    7.0,
+    7.5,
+    8.0,
+    8.5,
+    9.0,
+    9.5,
+    10.0
+  ],
+  "theory_k": [
+    0.0,
+    0.25,
+    0.5,
+    0.75,
+    1.0,
+    1.25,
+    1.5,
+    1.75,
+    2.0,
+    2.25,
+    2.5,
+    2.75,
+    3.0,
+    3.25,
+    3.5,
+    3.75,
+    4.0,
+    4.25,
+    4.5,
+    4.75,
+    5.0,
+    5.25,
+    5.5,
+    5.75,
+    6.0,
+    6.25,
+    6.5,
+    6.75,
+    7.0,
+    7.25,
+    7.5,
+    7.75,
+    8.0,
+    8.25,
+    8.5,
+    8.75,
+    9.0,
+    9.25,
+    9.5,
+    9.75,
+    10.0
+  ],
+  "inset": {
+    "settings": {
+      "delta_omega": 4.0,
+      "modes": 96,
+      "phase_points": 512
+    },
+    "theory_index": 2
+  },
+  "refinements": {
+    "baseline_runs": [
+      "r000",
+      "r002",
+      "r007",
+      "r020",
+      "r021",
+      "r023",
+      "r041"
+    ],
+    "overrides": {
+      "dt_coarser": {
+        "dt_max": 0.001,
+        "step_scale": 0.0025
+      },
+      "dt_finer": {
+        "dt_max": 0.00025,
+        "step_scale": 0.000625
+      },
+      "burn": {
+        "burn": 200.0
+      },
+      "duration": {
+        "duration": 4000.0
+      }
+    }
+  },
+  "overlay": {
+    "settings": {
+      "nr": 160,
+      "tail_log": 40.0,
+      "points": 161,
+      "xtol": 1e-09,
+      "beta_min": 0.05,
+      "beta_max": 10.0,
+      "upper": 2.0
+    }
+  },
+  "checksums": {
+    "theory.npz": "52a5f0f3ca12d3350f0f99ae5942e6b73bac7494327d37886d5bf549bb08e6bd",
+    "minimum_grid.npz": "6d9a0d8bea97903f8cd15021f9a1d6865105bc09e8492c70d961e5f88208a51f",
+    "bimodal.npz": "f207e443872546a338358191d91d2c50ae3fd885ec3918cc3bd68131ce2d3180",
+    "overlay.npz": "a5b5ff2698d0cd11e31a2656e47449512e68c861199ae28c018be7e5095daa19",
+    "replicas.npz": "6a23ce95f64dc2a6864112b7dfa74066fa443afe9e686286f9669d48d9e26de2",
+    "validation_replicas.npz": "df0df05c4a7b442cadc5fbf54722bcd622ac48bba1e536ed338cdc5f666400ec",
+    "numerics.csv": "a09e5fb16586cc0692b76a348218d1917f24c2328a66e81881c1af37c2e11173"
+  }
+}

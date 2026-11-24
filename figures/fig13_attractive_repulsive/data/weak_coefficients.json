@@ -1,0 +1,38 @@
+[
+  {
+    "beta": 3.3333333333333335,
+    "coefficient": -0.03705385288270049,
+    "delta_omega": 0.0,
+    "coupling": "radial"
+  },
+  {
+    "beta": 10.0,
+    "coefficient": 0.0077873772042036105,
+    "delta_omega": 0.0,
+    "coupling": "radial"
+  },
+  {
+    "beta": 3.3333333333333335,
+    "coefficient": -1.0323349969127753,
+    "delta_omega": 0.0,
+    "coupling": "cartesian"
+  },
+  {
+    "beta": 10.0,
+    "coefficient": -1.5382046206520326,
+    "delta_omega": 0.0,
+    "coupling": "cartesian"
+  },
+  {
+    "beta": 1.0,
+    "coefficient": 0.020775712191025014,
+    "delta_omega": 1.0,
+    "coupling": "phase"
+  },
+  {
+    "beta": 1.0,
+    "coefficient": -0.07748628507408743,
+    "delta_omega": 4.0,
+    "coupling": "phase"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "beta_grid": {
+    "start": 0.01,
+    "stop": 20.0,
+    "points": 100
+  },
+  "k_grid": {
+    "start": 0.0,
+    "stop": 3.0,
+    "points": 100
+  },
+  "gradient_radial_points": 600,
+  "covariance_radial_points": 700
+}

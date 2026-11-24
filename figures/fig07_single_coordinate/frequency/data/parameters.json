@@ -1,0 +1,1371 @@
+{
+  "run_defaults": {
+    "burn": 500.0,
+    "measure": 2000.0,
+    "replicas": 512,
+    "blocks": 20,
+    "initial": "synchronized",
+    "number": 2,
+    "beta": 5.0,
+    "omega": 1.0,
+    "dt": 0.0005
+  },
+  "runs": [
+    {
+      "id": "r000",
+      "k": 0.0,
+      "seed": 2525868627
+    },
+    {
+      "id": "r001",
+      "k": 0.25,
+      "seed": 4008815196
+    },
+    {
+      "id": "r002",
+      "k": 0.5,
+      "seed": 4239208449
+    },
+    {
+      "id": "r003",
+      "k": 1.0,
+      "seed": 3154748240
+    },
+    {
+      "id": "r004",
+      "k": 1.25,
+      "seed": 1345992273
+    },
+    {
+      "id": "r005",
+      "k": 1.5,
+      "seed": 3998106240
+    },
+    {
+      "id": "r006",
+      "k": 1.6,
+      "seed": 1030597754
+    },
+    {
+      "id": "r007",
+      "k": 1.64,
+      "seed": 3318834490
+    },
+    {
+      "id": "r008",
+      "k": 1.6666666666666667,
+      "seed": 1450673221
+    },
+    {
+      "id": "r009",
+      "k": 1.69,
+      "seed": 3074920882
+    },
+    {
+      "id": "r010",
+      "initial": "death",
+      "k": 1.69,
+      "seed": 2149079313
+    },
+    {
+      "id": "r011",
+      "k": 1.72,
+      "seed": 2280572416
+    },
+    {
+      "id": "r012",
+      "initial": "death",
+      "k": 1.72,
+      "seed": 3969310345
+    },
+    {
+      "id": "r013",
+      "k": 1.8,
+      "seed": 135407899
+    },
+    {
+      "id": "r014",
+      "initial": "death",
+      "k": 1.8,
+      "seed": 3393188666
+    },
+    {
+      "id": "r015",
+      "k": 2.0,
+      "seed": 2937660450
+    },
+    {
+      "id": "r016",
+      "initial": "death",
+      "k": 2.0,
+      "seed": 324745869
+    },
+    {
+      "id": "r017",
+      "k": 2.25,
+      "seed": 279904936
+    },
+    {
+      "id": "r018",
+      "initial": "death",
+      "k": 2.25,
+      "seed": 2203077209
+    },
+    {
+      "id": "r019",
+      "k": 2.5,
+      "seed": 287158037
+    },
+    {
+      "id": "r020",
+      "initial": "death",
+      "k": 2.5,
+      "seed": 1802151206
+    },
+    {
+      "id": "r021",
+      "k": 3.0,
+      "seed": 4259443917
+    },
+    {
+      "id": "r022",
+      "initial": "death",
+      "k": 3.0,
+      "seed": 3121782097
+    },
+    {
+      "id": "r023",
+      "k": 4.0,
+      "seed": 2411950397
+    },
+    {
+      "id": "r024",
+      "initial": "death",
+      "k": 4.0,
+      "seed": 4063494705
+    },
+    {
+      "id": "r025",
+      "k": 8.0,
+      "seed": 2276731698
+    },
+    {
+      "id": "r026",
+      "initial": "death",
+      "k": 8.0,
+      "seed": 3757499180
+    },
+    {
+      "id": "r027",
+      "k": 15.0,
+      "seed": 2741865116
+    },
+    {
+      "id": "r028",
+      "initial": "death",
+      "k": 15.0,
+      "seed": 1725743216
+    },
+    {
+      "id": "r029",
+      "k": 30.0,
+      "seed": 1209868596
+    },
+    {
+      "id": "r030",
+      "initial": "death",
+      "k": 30.0,
+      "seed": 3084081077
+    },
+    {
+      "id": "r031",
+      "k": 50.0,
+      "seed": 857549021
+    },
+    {
+      "id": "r032",
+      "initial": "death",
+      "k": 50.0,
+      "seed": 358178986
+    },
+    {
+      "id": "r033",
+      "k": 75.0,
+      "seed": 4175908964
+    },
+    {
+      "id": "r034",
+      "initial": "death",
+      "k": 75.0,
+      "seed": 1764870312
+    },
+    {
+      "id": "r035",
+      "k": 100.0,
+      "seed": 1311343089
+    },
+    {
+      "id": "r036",
+      "initial": "death",
+      "k": 100.0,
+      "seed": 1880695824
+    },
+    {
+      "id": "r037",
+      "k": 125.0,
+      "seed": 1184580662
+    },
+    {
+      "id": "r038",
+      "initial": "death",
+      "k": 125.0,
+      "seed": 774082501
+    },
+    {
+      "id": "r039",
+      "k": 150.0,
+      "dt": 0.0004966887417218543,
+      "seed": 1956146846
+    },
+    {
+      "id": "r040",
+      "initial": "death",
+      "k": 150.0,
+      "dt": 0.0004966887417218543,
+      "seed": 3915299314
+    },
+    {
+      "id": "r041",
+      "beta": 1.0,
+      "k": 0.0,
+      "seed": 659091950
+    },
+    {
+      "id": "r042",
+      "beta": 1.0,
+      "k": 1.0,
+      "seed": 1162412152
+    },
+    {
+      "id": "r043",
+      "beta": 1.0,
+      "k": 2.0,
+      "seed": 4018579050
+    },
+    {
+      "id": "r044",
+      "beta": 1.0,
+      "k": 4.0,
+      "seed": 4115610711
+    },
+    {
+      "id": "r045",
+      "beta": 1.0,
+      "k": 8.0,
+      "seed": 1852754556
+    },
+    {
+      "id": "r046",
+      "beta": 1.0,
+      "k": 15.0,
+      "seed": 2115027874
+    },
+    {
+      "id": "r047",
+      "beta": 1.0,
+      "k": 30.0,
+      "seed": 3272031589
+    },
+    {
+      "id": "r048",
+      "beta": 1.0,
+      "k": 50.0,
+      "seed": 1352061823
+    },
+    {
+      "id": "r049",
+      "beta": 1.0,
+      "k": 75.0,
+      "seed": 3176132150
+    },
+    {
+      "id": "r050",
+      "beta": 1.0,
+      "k": 100.0,
+      "seed": 3079335110
+    },
+    {
+      "id": "r051",
+      "beta": 1.0,
+      "k": 125.0,
+      "seed": 906234189
+    },
+    {
+      "id": "r052",
+      "beta": 1.0,
+      "k": 150.0,
+      "dt": 0.0004966887417218543,
+      "seed": 1850110501
+    },
+    {
+      "id": "r053",
+      "beta": 50.0,
+      "k": 0.0,
+      "seed": 2852057378
+    },
+    {
+      "id": "r054",
+      "beta": 50.0,
+      "k": 1.0,
+      "seed": 3475516844
+    },
+    {
+      "id": "r055",
+      "beta": 50.0,
+      "k": 2.0,
+      "seed": 4098073057
+    },
+    {
+      "id": "r056",
+      "beta": 50.0,
+      "k": 4.0,
+      "seed": 372067129
+    },
+    {
+      "id": "r057",
+      "beta": 50.0,
+      "k": 8.0,
+      "seed": 4056942869
+    },
+    {
+      "id": "r058",
+      "beta": 50.0,
+      "k": 15.0,
+      "seed": 2388766309
+    },
+    {
+      "id": "r059",
+      "beta": 50.0,
+      "k": 30.0,
+      "seed": 1595353459
+    },
+    {
+      "id": "r060",
+      "beta": 50.0,
+      "k": 50.0,
+      "seed": 2595204425
+    },
+    {
+      "id": "r061",
+      "beta": 50.0,
+      "k": 75.0,
+      "seed": 2690135474
+    },
+    {
+      "id": "r062",
+      "beta": 50.0,
+      "k": 100.0,
+      "seed": 1848446700
+    },
+    {
+      "id": "r063",
+      "beta": 50.0,
+      "k": 125.0,
+      "seed": 985018296
+    },
+    {
+      "id": "r064",
+      "beta": 50.0,
+      "k": 150.0,
+      "dt": 0.0004966887417218543,
+      "seed": 4057008610
+    },
+    {
+      "id": "r065",
+      "k": 0.0,
+      "omega": 0.1,
+      "seed": 530963703
+    },
+    {
+      "id": "r066",
+      "k": 1.0,
+      "omega": 0.1,
+      "seed": 1302308334
+    },
+    {
+      "id": "r067",
+      "k": 2.0,
+      "omega": 0.1,
+      "seed": 3120309202
+    },
+    {
+      "id": "r068",
+      "k": 4.0,
+      "omega": 0.1,
+      "seed": 58559786
+    },
+    {
+      "id": "r069",
+      "k": 8.0,
+      "omega": 0.1,
+      "seed": 3701207626
+    },
+    {
+      "id": "r070",
+      "k": 15.0,
+      "omega": 0.1,
+      "seed": 221872482
+    },
+    {
+      "id": "r071",
+      "k": 30.0,
+      "omega": 0.1,
+      "seed": 4173458455
+    },
+    {
+      "id": "r072",
+      "k": 50.0,
+      "omega": 0.1,
+      "seed": 4044877561
+    },
+    {
+      "id": "r073",
+      "k": 75.0,
+      "omega": 0.1,
+      "seed": 2564017871
+    },
+    {
+      "id": "r074",
+      "k": 100.0,
+      "omega": 0.1,
+      "seed": 3745606462
+    },
+    {
+      "id": "r075",
+      "k": 125.0,
+      "omega": 0.1,
+      "seed": 1581756646
+    },
+    {
+      "id": "r076",
+      "k": 150.0,
+      "omega": 0.1,
+      "dt": 0.0004981733643307871,
+      "seed": 2701297645
+    },
+    {
+      "id": "r077",
+      "k": 0.0,
+      "omega": 5.0,
+      "seed": 2081280840
+    },
+    {
+      "id": "r078",
+      "k": 1.0,
+      "omega": 5.0,
+      "seed": 1358906185
+    },
+    {
+      "id": "r079",
+      "k": 2.0,
+      "omega": 5.0,
+      "seed": 3064585958
+    },
+    {
+      "id": "r080",
+      "k": 4.0,
+      "omega": 5.0,
+      "seed": 1557046819
+    },
+    {
+      "id": "r081",
+      "k": 8.0,
+      "omega": 5.0,
+      "seed": 3163711915
+    },
+    {
+      "id": "r082",
+      "k": 15.0,
+      "omega": 5.0,
+      "seed": 1876627828
+    },
+    {
+      "id": "r083",
+      "k": 30.0,
+      "omega": 5.0,
+      "seed": 444113247
+    },
+    {
+      "id": "r084",
+      "k": 50.0,
+      "omega": 5.0,
+      "seed": 2236628670
+    },
+    {
+      "id": "r085",
+      "k": 75.0,
+      "omega": 5.0,
+      "seed": 2165382457
+    },
+    {
+      "id": "r086",
+      "k": 100.0,
+      "omega": 5.0,
+      "seed": 395374201
+    },
+    {
+      "id": "r087",
+      "k": 125.0,
+      "omega": 5.0,
+      "seed": 339521131
+    },
+    {
+      "id": "r088",
+      "k": 150.0,
+      "omega": 5.0,
+      "dt": 0.0004901960784313725,
+      "seed": 978495611
+    },
+    {
+      "id": "r089",
+      "number": 8,
+      "k": 0.0,
+      "seed": 1159909321
+    },
+    {
+      "id": "r090",
+      "number": 8,
+      "k": 1.0,
+      "seed": 228772900
+    },
+    {
+      "id": "r091",
+      "number": 8,
+      "k": 2.0,
+      "seed": 1269974131
+    },
+    {
+      "id": "r092",
+      "number": 8,
+      "k": 4.0,
+      "seed": 2650086423
+    },
+    {
+      "id": "r093",
+      "number": 8,
+      "k": 8.0,
+      "seed": 1891315336
+    },
+    {
+      "id": "r094",
+      "number": 8,
+      "k": 15.0,
+      "seed": 4049894540
+    },
+    {
+      "id": "r095",
+      "number": 8,
+      "k": 30.0,
+      "seed": 726106626
+    },
+    {
+      "id": "r096",
+      "number": 8,
+      "k": 50.0,
+      "dt": 0.00037313432835820896,
+      "seed": 3722215844
+    },
+    {
+      "id": "r097",
+      "number": 8,
+      "k": 75.0,
+      "dt": 0.0002491694352159468,
+      "seed": 2092859789
+    },
+    {
+      "id": "r098",
+      "number": 8,
+      "k": 100.0,
+      "dt": 0.00018703241895261845,
+      "seed": 2075714497
+    },
+    {
+      "id": "r099",
+      "number": 8,
+      "k": 125.0,
+      "dt": 0.0001497005988023952,
+      "seed": 1008088058
+    },
+    {
+      "id": "r100",
+      "number": 8,
+      "k": 150.0,
+      "dt": 0.0001247920133111481,
+      "seed": 2230401135
+    },
+    {
+      "id": "r101",
+      "k": 1.69,
+      "dt": 0.00025,
+      "seed": 1733107116
+    },
+    {
+      "id": "r102",
+      "k": 1.69,
+      "dt": 0.000125,
+      "seed": 3824267920
+    },
+    {
+      "id": "r103",
+      "burn": 1000.0,
+      "k": 1.69,
+      "seed": 1738732333
+    },
+    {
+      "id": "r104",
+      "k": 2.0,
+      "dt": 0.00025,
+      "seed": 2326680529
+    },
+    {
+      "id": "r105",
+      "k": 2.0,
+      "dt": 0.000125,
+      "seed": 3364879265
+    },
+    {
+      "id": "r106",
+      "burn": 1000.0,
+      "k": 2.0,
+      "seed": 22776752
+    },
+    {
+      "id": "r107",
+      "beta": 1.0,
+      "k": 20.0,
+      "seed": 819288721
+    },
+    {
+      "id": "r108",
+      "beta": 1.0,
+      "k": 20.0,
+      "dt": 0.00025,
+      "seed": 1322359392
+    },
+    {
+      "id": "r109",
+      "beta": 1.0,
+      "k": 20.0,
+      "dt": 0.000125,
+      "seed": 4044384831
+    },
+    {
+      "id": "r110",
+      "burn": 1000.0,
+      "beta": 1.0,
+      "k": 20.0,
+      "seed": 3376041396
+    },
+    {
+      "id": "r111",
+      "k": 20.0,
+      "omega": 0.1,
+      "seed": 1462058030
+    },
+    {
+      "id": "r112",
+      "k": 20.0,
+      "omega": 0.1,
+      "dt": 0.00025,
+      "seed": 918272265
+    },
+    {
+      "id": "r113",
+      "k": 20.0,
+      "omega": 0.1,
+      "dt": 0.000125,
+      "seed": 2855039702
+    },
+    {
+      "id": "r114",
+      "burn": 1000.0,
+      "k": 20.0,
+      "omega": 0.1,
+      "seed": 3606593418
+    },
+    {
+      "id": "r115",
+      "beta": 50.0,
+      "k": 50.0,
+      "dt": 0.00025,
+      "seed": 2952221908
+    },
+    {
+      "id": "r116",
+      "beta": 50.0,
+      "k": 50.0,
+      "dt": 0.000125,
+      "seed": 3896261037
+    },
+    {
+      "id": "r117",
+      "burn": 1000.0,
+      "beta": 50.0,
+      "k": 50.0,
+      "seed": 3001296448
+    },
+    {
+      "id": "r118",
+      "number": 8,
+      "k": 150.0,
+      "dt": 6.239600665557404e-05,
+      "seed": 3996829488
+    },
+    {
+      "id": "r119",
+      "number": 8,
+      "k": 150.0,
+      "dt": 3.119800332778702e-05,
+      "seed": 2604009620
+    },
+    {
+      "id": "r120",
+      "burn": 1000.0,
+      "number": 8,
+      "k": 150.0,
+      "dt": 0.0001247920133111481,
+      "seed": 3448642720
+    },
+    {
+      "id": "r121",
+      "measure": 8000.0,
+      "k": 1.69,
+      "seed": 1384523438
+    },
+    {
+      "id": "r122",
+      "measure": 8000.0,
+      "initial": "death",
+      "k": 1.69,
+      "seed": 1833840383
+    },
+    {
+      "id": "r123",
+      "burn": 1000.0,
+      "initial": "death",
+      "k": 1.69,
+      "seed": 2546070639
+    },
+    {
+      "id": "r124",
+      "measure": 8000.0,
+      "k": 2.0,
+      "seed": 2209020768
+    },
+    {
+      "id": "r125",
+      "measure": 8000.0,
+      "initial": "death",
+      "k": 2.0,
+      "seed": 1843072408
+    },
+    {
+      "id": "r126",
+      "measure": 8000.0,
+      "k": 4.0,
+      "seed": 1335610945
+    },
+    {
+      "id": "r127",
+      "measure": 8000.0,
+      "initial": "death",
+      "k": 4.0,
+      "seed": 2645134791
+    },
+    {
+      "id": "r128",
+      "measure": 8000.0,
+      "beta": 50.0,
+      "k": 50.0,
+      "seed": 1455924300
+    },
+    {
+      "id": "r129",
+      "initial": "death",
+      "beta": 50.0,
+      "k": 50.0,
+      "seed": 355205453
+    },
+    {
+      "id": "r130",
+      "measure": 8000.0,
+      "initial": "death",
+      "beta": 50.0,
+      "k": 50.0,
+      "seed": 1480778410
+    },
+    {
+      "id": "r131",
+      "measure": 8000.0,
+      "beta": 1.0,
+      "k": 20.0,
+      "seed": 1191546396
+    },
+    {
+      "id": "r132",
+      "measure": 8000.0,
+      "k": 20.0,
+      "omega": 0.1,
+      "seed": 3395205411
+    }
+  ],
+  "model": {
+    "drift": "Fx=(1-r)*x+omega*y+k*(sum(x)-N*x); Fy=(1-r)*y-omega*x",
+    "noise": "sqrt(2/beta)",
+    "coupling": "Unnormalised all-to-all, x only",
+    "integrator": "Additive-noise Cartesian Heun"
+  },
+  "frequency": "Positive clockwise principal phase increments at every timestep, averaged over oscillators within each independent system; units omega",
+  "uncertainty": "Pointwise 95% Student intervals across independent complete N-oscillator systems",
+  "curves": [
+    {
+      "label": "$N=2,\\ \\beta=5,\\ \\omega=1$",
+      "parameters": {
+        "number": 2,
+        "beta": 5.0,
+        "omega": 1.0
+      },
+      "points": [
+        "r000",
+        "r001",
+        "r002",
+        "r003",
+        "r004",
+        "r005",
+        "r006",
+        "r007",
+        "r008",
+        "r009",
+        "r010",
+        "r011",
+        "r012",
+        "r013",
+        "r014",
+        "r015",
+        "r016",
+        "r017",
+        "r018",
+        "r019",
+        "r020",
+        "r021",
+        "r022",
+        "r023",
+        "r025",
+        "r027",
+        "r029",
+        "r031",
+        "r033",
+        "r035",
+        "r037",
+        "r039"
+      ]
+    },
+    {
+      "label": "$\\beta=1$",
+      "parameters": {
+        "number": 2,
+        "beta": 1.0,
+        "omega": 1.0
+      },
+      "points": [
+        "r041",
+        "r042",
+        "r043",
+        "r044",
+        "r045",
+        "r046",
+        "r047",
+        "r048",
+        "r049",
+        "r050",
+        "r051",
+        "r052"
+      ]
+    },
+    {
+      "label": "$\\beta=50$",
+      "parameters": {
+        "number": 2,
+        "beta": 50.0,
+        "omega": 1.0
+      },
+      "points": [
+        "r053",
+        "r054",
+        "r055",
+        "r056",
+        "r057",
+        "r058",
+        "r059",
+        "r060",
+        "r061",
+        "r062",
+        "r063",
+        "r064"
+      ]
+    },
+    {
+      "label": "$\\omega=0.1$",
+      "parameters": {
+        "number": 2,
+        "beta": 5.0,
+        "omega": 0.1
+      },
+      "points": [
+        "r065",
+        "r066",
+        "r067",
+        "r068",
+        "r069",
+        "r070",
+        "r071",
+        "r072",
+        "r073",
+        "r074",
+        "r075",
+        "r076"
+      ]
+    },
+    {
+      "label": "$\\omega=5$",
+      "parameters": {
+        "number": 2,
+        "beta": 5.0,
+        "omega": 5.0
+      },
+      "points": [
+        "r077",
+        "r078",
+        "r079",
+        "r080",
+        "r081",
+        "r082",
+        "r083",
+        "r084",
+        "r085",
+        "r086",
+        "r087",
+        "r088"
+      ]
+    },
+    {
+      "label": "$N=8$",
+      "parameters": {
+        "number": 8,
+        "beta": 5.0,
+        "omega": 1.0
+      },
+      "points": [
+        "r089",
+        "r090",
+        "r091",
+        "r092",
+        "r093",
+        "r094",
+        "r095",
+        "r096",
+        "r097",
+        "r098",
+        "r099",
+        "r100"
+      ]
+    }
+  ],
+  "checks": [
+    {
+      "kind": "initial",
+      "base": "r009",
+      "target": "r010"
+    },
+    {
+      "kind": "initial",
+      "base": "r011",
+      "target": "r012"
+    },
+    {
+      "kind": "initial",
+      "base": "r013",
+      "target": "r014"
+    },
+    {
+      "kind": "initial",
+      "base": "r015",
+      "target": "r016"
+    },
+    {
+      "kind": "initial",
+      "base": "r017",
+      "target": "r018"
+    },
+    {
+      "kind": "initial",
+      "base": "r019",
+      "target": "r020"
+    },
+    {
+      "kind": "initial",
+      "base": "r021",
+      "target": "r022"
+    },
+    {
+      "kind": "initial",
+      "base": "r023",
+      "target": "r024"
+    },
+    {
+      "kind": "initial",
+      "base": "r025",
+      "target": "r026"
+    },
+    {
+      "kind": "initial",
+      "base": "r027",
+      "target": "r028"
+    },
+    {
+      "kind": "initial",
+      "base": "r029",
+      "target": "r030"
+    },
+    {
+      "kind": "initial",
+      "base": "r031",
+      "target": "r032"
+    },
+    {
+      "kind": "initial",
+      "base": "r033",
+      "target": "r034"
+    },
+    {
+      "kind": "initial",
+      "base": "r035",
+      "target": "r036"
+    },
+    {
+      "kind": "initial",
+      "base": "r037",
+      "target": "r038"
+    },
+    {
+      "kind": "initial",
+      "base": "r039",
+      "target": "r040"
+    },
+    {
+      "kind": "dt",
+      "base": "r009",
+      "target": "r101"
+    },
+    {
+      "kind": "dt",
+      "base": "r009",
+      "target": "r102"
+    },
+    {
+      "kind": "burn",
+      "base": "r009",
+      "target": "r103"
+    },
+    {
+      "kind": "dt",
+      "base": "r015",
+      "target": "r104"
+    },
+    {
+      "kind": "dt",
+      "base": "r015",
+      "target": "r105"
+    },
+    {
+      "kind": "burn",
+      "base": "r015",
+      "target": "r106"
+    },
+    {
+      "kind": "dt",
+      "base": "r107",
+      "target": "r108"
+    },
+    {
+      "kind": "dt",
+      "base": "r107",
+      "target": "r109"
+    },
+    {
+      "kind": "burn",
+      "base": "r107",
+      "target": "r110"
+    },
+    {
+      "kind": "dt",
+      "base": "r111",
+      "target": "r112"
+    },
+    {
+      "kind": "dt",
+      "base": "r111",
+      "target": "r113"
+    },
+    {
+      "kind": "burn",
+      "base": "r111",
+      "target": "r114"
+    },
+    {
+      "kind": "dt",
+      "base": "r060",
+      "target": "r115"
+    },
+    {
+      "kind": "dt",
+      "base": "r060",
+      "target": "r116"
+    },
+    {
+      "kind": "burn",
+      "base": "r060",
+      "target": "r117"
+    },
+    {
+      "kind": "dt",
+      "base": "r100",
+      "target": "r118"
+    },
+    {
+      "kind": "dt",
+      "base": "r100",
+      "target": "r119"
+    },
+    {
+      "kind": "burn",
+      "base": "r100",
+      "target": "r120"
+    },
+    {
+      "kind": "measure",
+      "base": "r009",
+      "target": "r121"
+    },
+    {
+      "kind": "measure",
+      "base": "r010",
+      "target": "r122"
+    },
+    {
+      "kind": "initial_long",
+      "base": "r121",
+      "target": "r122"
+    },
+    {
+      "kind": "burn",
+      "base": "r010",
+      "target": "r123"
+    },
+    {
+      "kind": "measure",
+      "base": "r015",
+      "target": "r124"
+    },
+    {
+      "kind": "measure",
+      "base": "r016",
+      "target": "r125"
+    },
+    {
+      "kind": "initial_long",
+      "base": "r124",
+      "target": "r125"
+    },
+    {
+      "kind": "measure",
+      "base": "r023",
+      "target": "r126"
+    },
+    {
+      "kind": "measure",
+      "base": "r024",
+      "target": "r127"
+    },
+    {
+      "kind": "initial_long",
+      "base": "r126",
+      "target": "r127"
+    },
+    {
+      "kind": "measure",
+      "base": "r060",
+      "target": "r128"
+    },
+    {
+      "kind": "measure",
+      "base": "r129",
+      "target": "r130"
+    },
+    {
+      "kind": "initial",
+      "base": "r060",
+      "target": "r129"
+    },
+    {
+      "kind": "initial_long",
+      "base": "r128",
+      "target": "r130"
+    },
+    {
+      "kind": "measure",
+      "base": "r107",
+      "target": "r131"
+    },
+    {
+      "kind": "measure",
+      "base": "r111",
+      "target": "r132"
+    }
+  ],
+  "checksums": {
+    "r000": "327c2ef5e81da131dcbfe39754606a09571421f33e9d8e179748506eb72fdd63",
+    "r001": "e2e9f34f5591577b388d2b7147660f11a992266162f085b6c6761cd7ceef3322",
+    "r002": "2675bc1bb70480f66f81c827ff24d94023b31d6dc31053fcc843a416d549a4cb",
+    "r003": "4b34a9e3aa65c15479ab3bae884a587518fbbc6b203d0cb0aec2e6da5d13ba94",
+    "r004": "08013c2dc4a427e3646c5d931820942bc34d7ff5fe94c45a002bd487d843a7b7",
+    "r005": "fed2786786ec5b6ac0c6c83e94c54431ab74a5c0131a2c9dd5f60811d85d7070",
+    "r006": "49ec66eb878f86ca4cd70106d1f032f7baa7df6e58010321aec93c48160b78fb",
+    "r007": "dba2345e1d9b915cc02ef351737edc0e83ec4918d77ec99bff1088a68ff4a78b",
+    "r008": "a41c444ffba72ba5453e1ef6fe0adea4508995154e5f465e70455c3a1e2033de",
+    "r009": "97e8b6847ed21690f767f657fdb24786caecaaf3fbb698eb182465b2f114ccc8",
+    "r010": "f051fc0c862154cfbb6c86820a486742f0ceb0bd968698921c3461fe4d6b1d71",
+    "r011": "042c5df15a572c9b35f57f059cd991575ee9692f152f2e04fb7034f6c8dbc2dd",
+    "r012": "d37fba6d682bab93dadb42b8ef84d8862ab8ff3021f0491f9a0de4e02e311eba",
+    "r013": "f6201aa0de3def5813c6ee00f8aaca0a6ff90541f9fe8ac54f4f944c6b415a6a",
+    "r014": "a46819ea916696979493f91c3d2ad70a206aa4016de6f3ba255bc4d8af6bd53f",
+    "r015": "1add999592e6cf0ebc8933c7321e5f4968dea121df34e7569ad2ad8774102bae",
+    "r016": "9466dc0e6c0f2918022bc17f36faa793fa43ee89e4a96e6ebbc497f97a53a2dc",
+    "r017": "7cf5b9d9c0465f4c440f29870b449638f22195e6703d78ac72a7766da7210f3b",
+    "r018": "e26a135b2489caed455ec987a7974901405bb92379031e3bedbce0ed5fe14e3c",
+    "r019": "6d64707a6573e47d1e1c3719a2dae110409f8ceff5242b7853a07c4130d09460",
+    "r020": "3a4b3d51ea68207945689209f4b3780a662288cc0748198f20a4cb05c2371e42",
+    "r021": "3c04fce3ca69beee10918c495c8adf1da82ac5e7a2834795c50726bb69ad36f5",
+    "r022": "79ba7a0a7ca1cf80c6c7ede99e893f2410a57ce6d8546e5ef4ec2768e691434b",
+    "r023": "a2f58d6c5fb418ba72356085fa17d56a1fb42740e1477e83466705a0edafbc13",
+    "r024": "30e2ed5b9596b8704727b90173431b0bb5fc29774d9fb79089b475fb55546857",
+    "r025": "36dcce7f5a0ff554cdd0c1055dfe70437f493e5341fc3c397b9a7a1f2b1d519a",
+    "r026": "7d7f01963e875e2a564d8f76e2b772f8b516319cf95d5b85240fba8acea471fb",
+    "r027": "b22a752fde40c4633875682636e07665d14b802d1da4c6e41e8c012f4fcf6e6b",
+    "r028": "9b74d8960b78ac6f4a550ccf64ee6f1fec744dfaaf5ec5492e8f9518f5d0ac21",
+    "r029": "e71defe51ddfa75cfe620ac372911fedf8b0f387b8ab3df7bebef72f8a129b9f",
+    "r030": "6cc0384349e5ab27ba60947fa3b783e1503fcaac0d812d08b6d8a173500c2677",
+    "r031": "5300b30ff8ca9cbeee6f4e5c07d9aae1c46a52ffecf1251dfd69960ff192924d",
+    "r032": "a713930a57c673be62605257c9fe635231cb0d67023e15b30377a29b15959e76",
+    "r033": "eda0e743af6da6aa933e64c3ca55e56208e181715e241f1d03498c9032de0467",
+    "r034": "293217aafddadd05d41af0cc22277929f37390441c5804f7c6b6a8eca69f4ffc",
+    "r035": "edefe743238c5be702d178a24d6575fe8d7676d632066a123bbc17ef89b512e5",
+    "r036": "39a88b242756f6e72c15cb21b29934108107a32ee835b52e92a1e9f7ce65bc76",
+    "r037": "4416672170663c1063aa573a3892c07c2eee9700dbfd7317794f4214d79d1ce1",
+    "r038": "306c78ebf7c48b80b4b2fe5751628651b307b0e8116850cfaea446b4efcea71a",
+    "r039": "0aabd7f999ba5dfdd95009988ce246fe9f651e88e6bdaba63a367ff224dd8104",
+    "r040": "959db0bac58ee19c3f7fa24d18da4514d2241bc0a83048a8c9faadb727fed9e5",
+    "r041": "1f6216a79ae2e80814890923a04d5d3331067d3db599cd16d9abfa677d5185e7",
+    "r042": "7178d2d519f30ed0b3667227d480de93125c086810841489ab2b20783c76fe50",
+    "r043": "5d7accc6230732c926755cf800c5fe645f04f8c9e99beaaebdd292fa7bda8683",
+    "r044": "c952c126f0344a404703ff6f83b60c2233b515e05c0fb7b67da3c5910e9a525c",
+    "r045": "16a1935388d521db777f90a28c7b4ea13fb255926d485692f52d7742619702fd",
+    "r046": "338d722cfa2e5880c48b4b56dc23e6ba758c3c9b8bec945efd83e1854768bf72",
+    "r047": "95f0fe92335496c55bf7fd43b052b09f1803aadd42014c743ee5168da9d087f8",
+    "r048": "c5e42dc15811eda5d3549d5b06052df763ecf9719aebf596682c2db57cb8583a",
+    "r049": "2c1fbbf191242e5f95f15ee42cad41387e0838ea65eaeebb01c13cfc90b79995",
+    "r050": "e9b333e002446f1511060868fb3a06f90081661bcbe9758a7a6a8b270d8a28d2",
+    "r051": "19cf71e5c458cffb58b7a742865c1efeb4adfd32874290c6b386771454ad6312",
+    "r052": "6e7e03ebaaffa6cc9ee53b8309f47ed801800fd89b71913ea3641297a107f959",
+    "r053": "83a955884fdf8c33dc1f47fdc10b0669b52bd1441aab7550c674ecd9f64eeb6f",
+    "r054": "9707c4e577c0d5595d1aedbe19b0cfeaac4d9aca140c758472a938098073751f",
+    "r055": "3922458cb23e48dde52d1f8eae62213cc06fccfd0777a0a1f573c727242dc4fe",
+    "r056": "bb21fe67c4e0d3275d9048b7cb304edd5e71a68837f0715ffbb02402ba38f290",
+    "r057": "73f0a489803c0fd19ae5cbc363eb59f8534321215e7eff2f337091e33355778c",
+    "r058": "ac57823d4a745fe37a9cf9c6cf67444da73ed5a27712adae4837a2597d8f515f",
+    "r059": "9a40bf8070f125a81cd6cedff9795a4346347dbe087af8ae4c130cd9255682cc",
+    "r060": "5c92b50616465443afa838aebfd96181336ce0bfd57fbd6ec3084557cf82e585",
+    "r061": "45b66ca1b249c1e8b8c8d6e7c2145166e58a81f21ab0fa8bd4c40fa770d29f92",
+    "r062": "ac69cd1ed3e29aba320eadeae331854a7cd3bf736c77b0bf11635d8fecd1222a",
+    "r063": "833540b5b554448888ae2d6c664ce978654c7d020302706f1d04def80874218f",
+    "r064": "c154631f0e5d75cd39992ba95c83ae888da3d56a04d53e1d579436d9865009c2",
+    "r065": "d6754e5ced8c8aa888e0d757416f3dae8f1c5a95695052850a3613f9e5cf21ae",
+    "r066": "c8c11618837c7a8b884111f01b4bd568d3bc2ca9ed5f63fa3ecefc99eb4a3209",
+    "r067": "5a6d11ab2e54776efb0e967206cb4fed57470eb872692b51583c14fc2f66663c",
+    "r068": "8d5ccc22819c3072cdabce721f4fd560a5871ef3338ca6d3ae3c8d0d631ac575",
+    "r069": "198e7adf633fea9ed2a89b078637cad39da55abfce8de337bdb628ded83ad411",
+    "r070": "c34ee1f81ef92dfc9ef793600e9f69f16d0954af338f64facf343567edc15935",
+    "r071": "9a017c72eb6d3749ae0bbaf511608f72f846238f4d7955bb303880e26ab2f45a",
+    "r072": "dc05d57166d8d1581ebd49afe50e8a718f049344cd6bcc18180040b11aba5646",
+    "r073": "c5b39a32ffe56f3aa66db6fcc7df3944489fc6a0137d7ddf7a48bdbaddf6da8e",
+    "r074": "74faa64e822ba9cc9775ce41e18f025d114dafe4b68b55713e9e3110012143bb",
+    "r075": "d65f06b16c938942b86c57510c1a3cf2eb320769378dd5a230dcf1462e781e6a",
+    "r076": "866dfd947f270cc0188203ad56dfa7b5de7f5ac97fb53838ed647d45c7d62795",
+    "r077": "8a837bea4f2da973169ebe3b245d5a0e74bebd3cd09f18f868e983c89d5f3157",
+    "r078": "db407927d898c2f672a809818b0bf0987f4ea2b070764b0e215d5d0de182f4a7",
+    "r079": "114b00176f410ecc5a92c4a3644ed484e1b48c660ebf25e3169b363d5850ea34",
+    "r080": "8a175304036e0712f3d2a96e9782483b871c95fcec3a1c87682c6f5e767a9a5a",
+    "r081": "bfaad1516f44cd00e11a11acc18ec20d6463e7d2b2a3092d335fbf8e147913f4",
+    "r082": "d7312418d864b9db6e958e02537b71552472caa0b5cddbee6f436f91978f03e5",
+    "r083": "4a1a8100646258b3cff6bd221bd910dad25244cc55e434b92c7117182ce4ed12",
+    "r084": "6c621a832733d1a1206cfe48907839ad15d3e0467a0d43170a57f7d99d6b9440",
+    "r085": "0ee222f11703078aeec173cf2ed4ab918f40a8183a9b96d34551d852f1d49cc3",
+    "r086": "39c1181224baaeaaac442fe66d3e9c6f554bcbfd3f98c7448329f76c966d2d12",
+    "r087": "9f59e522690b95998ea9945a889715de1b4a6ed6ae969129436a10e310867d42",
+    "r088": "8dcb69c59a522a540b31e97fe761556dd97b354148bab8bf983fbc697281cac3",
+    "r089": "ebdc4e96f1020d775e512be2def5295c41c619c3f31a028d49e7c452ae636a4c",
+    "r090": "72bd4cb5e9751abc77cb40ab2523583f68d764e9ac879e3412396382e34f3f03",
+    "r091": "faf7e206b0d4a90dcc18a24150f7399e5a5550610750ff9425a64071426772fb",
+    "r092": "8e9c4ce08f82987e42df41dacf629c60213507bce90d89ce0668e5b4b4ca7df7",
+    "r093": "0327b16e4e9d20ee0c699b53294c2d1007df00fdce9db639d795aab64649d5ed",
+    "r094": "c1075c6b399eba7b70db76c6016a9f471b5a1a71387a2c45a7fac6447fb6cbee",
+    "r095": "3353ef36c2db243fe28d7815b305170f88d2fb8e503e64b525cbbaf4369c9762",
+    "r096": "7c747c2354f8cb1cd6b8665152be81b05f605ba26ccfe8ebcd3126b102652d1d",
+    "r097": "4d4d9b6cb19d9d1933dd0e5abcbf7126ead930d2f82588d460b48590de56e668",
+    "r098": "027a4a98b8ce9cc739e12e10fdb81677cf333c80a0b9b65e2b576f1ac81b04e5",
+    "r099": "7f57a0f3a4f0ad0d1b157cb3c24dad363b768859312f77d171f25a30822cc263",
+    "r100": "f4bb048781d3b21b8db651b23fb023720b15d833f14c4a2f1ad0d35b4456edf5",
+    "r101": "844b52a1b6e3bce66b6ae8b96c777f55af12bfe9b36c301e29d0b86d6dc24c1a",
+    "r102": "b74de4abde56b8d68c380a078dedf65fb122a80ee45580566440eb1c31400fab",
+    "r103": "682accb874dcd5a8346e8c1c3c5330831ba86a123099644ed03450761668a383",
+    "r104": "16fa9871ef53b6dbd99331185d858c2deffc2fb393353060d3ef86cbd6fec159",
+    "r105": "99ad3e287989e1019af4643c2783c55836ea68de9db3c7b0370aeed4ca1ba213",
+    "r106": "8d65296fadaf60819e8b47d2b5349a6d3145176273daf672d7a3e443d6cd5048",
+    "r107": "930e22264e7d41eacc9d6de0d24c44915238699125e50df0be385c0382974403",
+    "r108": "30f1f618250c7aa65a4229765942d7fee9e86cf9a1be013fea18ee5d761eb5f9",
+    "r109": "191c406c8e5315d09b29159dd9324150f551b277843b30e644626dc5913e5cc1",
+    "r110": "1ba8d14a4300efb6897de7c2149cfc3ddb3fd0b71b90e1d3fa641d4f59ee9479",
+    "r111": "f6706a7db0d7aa442e3b85f4e14c27cc84b60fd487d4f9a2f7ae0558a251cf62",
+    "r112": "5b2cd3539f5c7ff090e3b8479378086b75d54c2f8e8ccb4d696c5aba1a0fe4d4",
+    "r113": "187cfcd2c050843c83475cce3d175fbdef08181402bd7f64212cf841dc0e8d7e",
+    "r114": "008fcc9c331207a6397e8be601405195015be688ca509703f2690591c50d74fc",
+    "r115": "fca954eb9337114120e7f64208903b93d4cad1c0e8fb0680fb4dc39072238270",
+    "r116": "1e333fe4b4670866a6034f1bce8352495c99d1f82cfd0dca20bbe30cebedf657",
+    "r117": "6d7258cf4eb5426000152ca043318a2848f218bfc94abd7d83f1a99ec5823a55",
+    "r118": "7ea65becaa189d39ea8261dde33da6c9e90693ad2410aac37b3dbd12e8b6d712",
+    "r119": "9a94dea354fcba370627af463fb9dcffedd518b7896574ab0bdbc5895e48a3fa",
+    "r120": "11daab06a53b9a55c03008794e1467462da9753b6692099fcde75ab389057cdf",
+    "r121": "38a18a83f647f8422facb4f1ee990650688ba4c0837beecc99a318281f523827",
+    "r122": "86acddbbfd4a638ebff38a6e6b3052a8c2d49136e9abe832e6db0cd43dd0ac71",
+    "r123": "259665708625d21a87e63e71edf4a2edd1fda05cbe6fd35b4ac9f788d54ba2e9",
+    "r124": "65eee50ba0c95aee8b067af15e7be7823d78bc20c11cc4df1a2a2e416ac1ee98",
+    "r125": "4d888f0cec221961b795ea3b1045bbc5a48d7e5cd39816024d08237449737b4e",
+    "r126": "c8f607013dc6cd4d3ee6ce5951bdab3c601ce500c82c922406c7cd87af480dd1",
+    "r127": "49740c6e643f255914ee6a20b9118971519bc66d8f39da8b86ad235f65be9b7a",
+    "r128": "457757eb90f2e6d2debcfe9f1c9e8db6e33e74be58cac159220ecf1f53537005",
+    "r129": "53d24bda9ef7555edd2c6bb842ed04f210f7f27b4814d53c56d43ff15dfadd33",
+    "r130": "bac0f146763b337fd82e14e7905cb36fd308fe73d7edc6c08265559dfdcf825d",
+    "r131": "d96d954eae1eafa11bf227b5a53f1976c405f3b53611e5941c9d3e5b937a9677",
+    "r132": "8c391e45273f9ecd6c34957a348c07bfa6bd165ee7730f92cfdca7b40b24f26a"
+  }
+}

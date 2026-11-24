@@ -1,0 +1,56 @@
+{
+  "model": {
+    "T_eff": 1.0,
+    "omega_bar": 1.0
+  },
+  "comparisons": {
+    "m2": {
+      "supplied": 2.3836433821488447,
+      "independent": 2.383643382148845,
+      "difference": -3.938459639504642e-16,
+      "relative_difference": -1.6522856015290911e-16
+    },
+    "p00": {
+      "supplied": 0.43118135772227123,
+      "independent": 0.43118135772227123,
+      "difference": 4.30260920435268e-18,
+      "relative_difference": 9.978653128886058e-18
+    },
+    "H": {
+      "supplied": 0.39067619683906196,
+      "independent": 0.390676196839062,
+      "difference": -7.605482180524545e-17,
+      "relative_difference": -1.9467482897755354e-16
+    },
+    "A": {
+      "supplied": 0.5138912949203227,
+      "independent": 0.5138912949203228,
+      "difference": -1.1539870775910893e-16,
+      "relative_difference": -2.245585961462942e-16
+    },
+    "B": {
+      "supplied": 0.5334311061979404,
+      "independent": 0.5334311061979409,
+      "difference": -4.645082375593165e-16,
+      "relative_difference": -8.707933080058344e-16
+    },
+    "sigma_psi": {
+      "supplied": 4.7672867642976895,
+      "independent": 4.76728676429769,
+      "difference": -6.876919279009284e-16,
+      "relative_difference": -1.4425226798838022e-16
+    }
+  },
+  "precision_refinement": {
+    "from_dps": 35,
+    "to_dps": 55,
+    "fine_minus_coarse": {
+      "m2": "1.63439641931809e-37",
+      "p00": "7.60655852016415e-38",
+      "H": "-6.56327716487523e-38",
+      "A": "-1.03862327975036e-38",
+      "B": "3.41421873365348e-37",
+      "sigma_psi": "3.26879283863618e-37"
+    }
+  }
+}

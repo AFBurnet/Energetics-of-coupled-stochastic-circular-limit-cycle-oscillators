@@ -1,0 +1,3468 @@
+{
+  "frequency_estimates": [
+    {
+      "run_id": "r000",
+      "number": 2,
+      "beta": 5.0,
+      "k": 0.0,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 1.000352956238327,
+      "frequency_sem": 0.0008284559662989769,
+      "frequency_ci95_half_width": 0.001627598859333346,
+      "frequency_late_minus_early": 0.001062491231938045,
+      "frequency_late_minus_early_sem": 0.0016115972698272992,
+      "frequency_late_minus_early_ci95_half_width": 0.00316617175176337,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 2.1331542968750002e-05,
+          "sem": 1.500843897511054e-07,
+          "half95": 2.948583769079703e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r001",
+      "number": 2,
+      "beta": 5.0,
+      "k": 0.25,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.9877796700253337,
+      "frequency_sem": 0.0008631203599087344,
+      "frequency_ci95_half_width": 0.0016957011240207158,
+      "frequency_late_minus_early": -0.0011670072593908238,
+      "frequency_late_minus_early_sem": 0.001727249147567432,
+      "frequency_late_minus_early_ci95_half_width": 0.003393383422566485,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 2.7781982421875e-05,
+          "sem": 1.8569288167946014e-07,
+          "half95": 3.648154334116292e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r002",
+      "number": 2,
+      "beta": 5.0,
+      "k": 0.5,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.9650517917364151,
+      "frequency_sem": 0.0008996867962612645,
+      "frequency_ci95_half_width": 0.0017675401746381448,
+      "frequency_late_minus_early": 0.0015365487585642826,
+      "frequency_late_minus_early_sem": 0.0018897239565034787,
+      "frequency_late_minus_early_ci95_half_width": 0.003712584230397084,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 2.9881103515625e-05,
+          "sem": 1.8625618463339179e-07,
+          "half95": 3.659221080963129e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r003",
+      "number": 2,
+      "beta": 5.0,
+      "k": 1.0,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.9244839308570016,
+      "frequency_sem": 0.0009287433462756808,
+      "frequency_ci95_half_width": 0.0018246251732179717,
+      "frequency_late_minus_early": -0.0012891634514955025,
+      "frequency_late_minus_early_sem": 0.001973342669556847,
+      "frequency_late_minus_early_ci95_half_width": 0.0038768629941708355,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 3.1244140625e-05,
+          "sem": 1.8906862720614096e-07,
+          "half95": 3.7144748121155117e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r004",
+      "number": 2,
+      "beta": 5.0,
+      "k": 1.25,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.9071262766082889,
+      "frequency_sem": 0.0009869222664167778,
+      "frequency_ci95_half_width": 0.0019389244817037564,
+      "frequency_late_minus_early": -0.0015516876521907655,
+      "frequency_late_minus_early_sem": 0.0018543540322185433,
+      "frequency_late_minus_early_ci95_half_width": 0.0036430958679943776,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 3.1167724609375e-05,
+          "sem": 1.9365508625981589e-07,
+          "half95": 3.804581176579141e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r005",
+      "number": 2,
+      "beta": 5.0,
+      "k": 1.5,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.8939102184301032,
+      "frequency_sem": 0.0009623897566369623,
+      "frequency_ci95_half_width": 0.0018907274904833417,
+      "frequency_late_minus_early": 0.0016892836221590215,
+      "frequency_late_minus_early_sem": 0.0018926853964555562,
+      "frequency_late_minus_early_ci95_half_width": 0.003718402326329833,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 3.0946777343749996e-05,
+          "sem": 1.8469087726150988e-07,
+          "half95": 3.62846878275273e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r006",
+      "number": 2,
+      "beta": 5.0,
+      "k": 1.6,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.8892693033882034,
+      "frequency_sem": 0.0009342087990855757,
+      "frequency_ci95_half_width": 0.0018353626959361255,
+      "frequency_late_minus_early": -0.00030381858913387035,
+      "frequency_late_minus_early_sem": 0.0020054309885341455,
+      "frequency_late_minus_early_ci95_half_width": 0.003939904258269268,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 3.086669921875e-05,
+          "sem": 1.8406550497830805e-07,
+          "half95": 3.616182611173266e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r007",
+      "number": 2,
+      "beta": 5.0,
+      "k": 1.64,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.887366780582957,
+      "frequency_sem": 0.0009814565446557809,
+      "frequency_ci95_half_width": 0.0019281864305996357,
+      "frequency_late_minus_early": 0.0022973959169572213,
+      "frequency_late_minus_early_sem": 0.0019869655651897173,
+      "frequency_late_minus_early_ci95_half_width": 0.003903626769549182,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 3.113232421875e-05,
+          "sem": 1.900706574802061e-07,
+          "half95": 3.7341608714527596e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r008",
+      "number": 2,
+      "beta": 5.0,
+      "k": 1.6666666666666667,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.8870613411975874,
+      "frequency_sem": 0.0009660286443476647,
+      "frequency_ci95_half_width": 0.001897876511949914,
+      "frequency_late_minus_early": -0.00028908513733228195,
+      "frequency_late_minus_early_sem": 0.0018355217090064396,
+      "frequency_late_minus_early_ci95_half_width": 0.003606097561475386,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 3.100390625e-05,
+          "sem": 1.929154366226333e-07,
+          "half95": 3.7900498924221477e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r009",
+      "number": 2,
+      "beta": 5.0,
+      "k": 1.69,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.8875554354160478,
+      "frequency_sem": 0.0009947268831929713,
+      "frequency_ci95_half_width": 0.001954257566235955,
+      "frequency_late_minus_early": 0.001250155213621266,
+      "frequency_late_minus_early_sem": 0.0020671425674134635,
+      "frequency_late_minus_early_ci95_half_width": 0.004061143888952777,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 3.074609375e-05,
+          "sem": 1.8686915788041848e-07,
+          "half95": 3.6712636589424934e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r010",
+      "number": 2,
+      "beta": 5.0,
+      "k": 1.69,
+      "omega": 1.0,
+      "initial": "death",
+      "frequency": 0.8841474891020952,
+      "frequency_sem": 0.0009961646223252136,
+      "frequency_ci95_half_width": 0.0019570821732963766,
+      "frequency_late_minus_early": 0.0002785285182168235,
+      "frequency_late_minus_early_sem": 0.0019395656370503026,
+      "frequency_late_minus_early_ci95_half_width": 0.0038105040543892645,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 3.10439453125e-05,
+          "sem": 1.9386399001103854e-07,
+          "half95": 3.808685335653756e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r011",
+      "number": 2,
+      "beta": 5.0,
+      "k": 1.72,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.8853286695209319,
+      "frequency_sem": 0.0009902804212134238,
+      "frequency_ci95_half_width": 0.0019455219704524985,
+      "frequency_late_minus_early": 0.00040602235230471364,
+      "frequency_late_minus_early_sem": 0.0019427588982661038,
+      "frequency_late_minus_early_ci95_half_width": 0.0038167775903692274,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 3.06240234375e-05,
+          "sem": 1.965977114115066e-07,
+          "half95": 3.862392497097883e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r012",
+      "number": 2,
+      "beta": 5.0,
+      "k": 1.72,
+      "omega": 1.0,
+      "initial": "death",
+      "frequency": 0.882903418218397,
+      "frequency_sem": 0.0009573495370268414,
+      "frequency_ci95_half_width": 0.0018808253882329708,
+      "frequency_late_minus_early": -0.0016727934386009176,
+      "frequency_late_minus_early_sem": 0.001987769905219079,
+      "frequency_late_minus_early_ci95_half_width": 0.003905206989823476,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 3.104443359375e-05,
+          "sem": 1.9793060939369955e-07,
+          "half95": 3.8885788404121403e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r013",
+      "number": 2,
+      "beta": 5.0,
+      "k": 1.8,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.8809415830807663,
+      "frequency_sem": 0.0009303257889805322,
+      "frequency_ci95_half_width": 0.001827734067409274,
+      "frequency_late_minus_early": -0.0029713693738539957,
+      "frequency_late_minus_early_sem": 0.0020154089625867176,
+      "frequency_late_minus_early_ci95_half_width": 0.003959507157936917,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 3.0427246093749998e-05,
+          "sem": 1.883241825305064e-07,
+          "half95": 3.6998493238072737e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r014",
+      "number": 2,
+      "beta": 5.0,
+      "k": 1.8,
+      "omega": 1.0,
+      "initial": "death",
+      "frequency": 0.8806777425042343,
+      "frequency_sem": 0.0010107899877008625,
+      "frequency_ci95_half_width": 0.001985815417996251,
+      "frequency_late_minus_early": 0.0014656379883236465,
+      "frequency_late_minus_early_sem": 0.0020672883342758865,
+      "frequency_late_minus_early_ci95_half_width": 0.004061430265041139,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 3.0970703125000006e-05,
+          "sem": 2.0139469870248627e-07,
+          "half95": 3.9566349355694704e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r015",
+      "number": 2,
+      "beta": 5.0,
+      "k": 2.0,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.8742562601597408,
+      "frequency_sem": 0.0010153795903300178,
+      "frequency_ci95_half_width": 0.0019948322303651425,
+      "frequency_late_minus_early": 0.0007349990610619017,
+      "frequency_late_minus_early_sem": 0.002125182280238703,
+      "frequency_late_minus_early_ci95_half_width": 0.004175169708348353,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 3.0412353515624996e-05,
+          "sem": 1.867124584062466e-07,
+          "half95": 3.6681851140856115e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r016",
+      "number": 2,
+      "beta": 5.0,
+      "k": 2.0,
+      "omega": 1.0,
+      "initial": "death",
+      "frequency": 0.8730337025096834,
+      "frequency_sem": 0.0010707465754669849,
+      "frequency_ci95_half_width": 0.0021036071629137393,
+      "frequency_late_minus_early": -0.0013095682695784614,
+      "frequency_late_minus_early_sem": 0.002045929834985209,
+      "frequency_late_minus_early_ci95_half_width": 0.004019468989491542,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 3.085546875e-05,
+          "sem": 1.926831174634339e-07,
+          "half95": 3.785485710209743e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r017",
+      "number": 2,
+      "beta": 5.0,
+      "k": 2.25,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.8647660310019492,
+      "frequency_sem": 0.0010332253258302907,
+      "frequency_ci95_half_width": 0.0020298922696741317,
+      "frequency_late_minus_early": 0.001044433774156238,
+      "frequency_late_minus_early_sem": 0.0019546902004220993,
+      "frequency_late_minus_early_ci95_half_width": 0.003840218032069724,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 3.0975341796875004e-05,
+          "sem": 1.8611525738602801e-07,
+          "half95": 3.6564523999904644e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r018",
+      "number": 2,
+      "beta": 5.0,
+      "k": 2.25,
+      "omega": 1.0,
+      "initial": "death",
+      "frequency": 0.8665738092684105,
+      "frequency_sem": 0.0009880670173314033,
+      "frequency_ci95_half_width": 0.0019411734790659079,
+      "frequency_late_minus_early": 0.0012617947790461565,
+      "frequency_late_minus_early_sem": 0.0020607426175204406,
+      "frequency_late_minus_early_ci95_half_width": 0.004048570437170893,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 3.071044921875e-05,
+          "sem": 1.941684236177842e-07,
+          "half95": 3.814666290722442e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r019",
+      "number": 2,
+      "beta": 5.0,
+      "k": 2.5,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.8540545682785771,
+      "frequency_sem": 0.0010134166923966119,
+      "frequency_ci95_half_width": 0.0019909758872794963,
+      "frequency_late_minus_early": -0.0008057276855954628,
+      "frequency_late_minus_early_sem": 0.0020669473342987982,
+      "frequency_late_minus_early_ci95_half_width": 0.004060760330613336,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 3.0539306640625e-05,
+          "sem": 1.9253100942491807e-07,
+          "half95": 3.782497369488512e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r020",
+      "number": 2,
+      "beta": 5.0,
+      "k": 2.5,
+      "omega": 1.0,
+      "initial": "death",
+      "frequency": 0.857666496467341,
+      "frequency_sem": 0.0010116525175916274,
+      "frequency_ci95_half_width": 0.0019875099590744225,
+      "frequency_late_minus_early": 0.0007490085473400578,
+      "frequency_late_minus_early_sem": 0.002095862212576253,
+      "frequency_late_minus_early_ci95_half_width": 0.004117566998458812,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 3.0394775390625e-05,
+          "sem": 1.8784784219277682e-07,
+          "half95": 3.690491059495331e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r021",
+      "number": 2,
+      "beta": 5.0,
+      "k": 3.0,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.8430807456425693,
+      "frequency_sem": 0.0010569172017422706,
+      "frequency_ci95_half_width": 0.002076437737120122,
+      "frequency_late_minus_early": -0.003109985936763807,
+      "frequency_late_minus_early_sem": 0.002047003556784006,
+      "frequency_late_minus_early_ci95_half_width": 0.004021578441829449,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 3.0979248046874994e-05,
+          "sem": 1.8798365830011153e-07,
+          "half95": 3.6931593261307275e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r022",
+      "number": 2,
+      "beta": 5.0,
+      "k": 3.0,
+      "omega": 1.0,
+      "initial": "death",
+      "frequency": 0.8443894520607341,
+      "frequency_sem": 0.0009879898721009545,
+      "frequency_ci95_half_width": 0.0019410219182175476,
+      "frequency_late_minus_early": -0.0005107412986102087,
+      "frequency_late_minus_early_sem": 0.0021243677704600008,
+      "frequency_late_minus_early_ci95_half_width": 0.004173569508409358,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 3.0629394531250003e-05,
+          "sem": 1.9726569950377084e-07,
+          "half95": 3.8755159062016226e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r023",
+      "number": 2,
+      "beta": 5.0,
+      "k": 4.0,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.8242821867522088,
+      "frequency_sem": 0.0010927953808693672,
+      "frequency_ci95_half_width": 0.0021469246257390714,
+      "frequency_late_minus_early": -0.0038058275970515587,
+      "frequency_late_minus_early_sem": 0.0022351099655727813,
+      "frequency_late_minus_early_ci95_half_width": 0.004391135532166601,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 3.08291015625e-05,
+          "sem": 1.8103531919181598e-07,
+          "half95": 3.5566510593432344e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r024",
+      "number": 2,
+      "beta": 5.0,
+      "k": 4.0,
+      "omega": 1.0,
+      "initial": "death",
+      "frequency": 0.823811052295907,
+      "frequency_sem": 0.0010624660360282802,
+      "frequency_ci95_half_width": 0.002087339072522274,
+      "frequency_late_minus_early": -0.0012131140794498928,
+      "frequency_late_minus_early_sem": 0.0021069292964002806,
+      "frequency_late_minus_early_ci95_half_width": 0.0041393095819404705,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 3.0708251953125e-05,
+          "sem": 1.8928408852336696e-07,
+          "half95": 3.7187078022611934e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r025",
+      "number": 2,
+      "beta": 5.0,
+      "k": 8.0,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.789662491508636,
+      "frequency_sem": 0.0011476595322980347,
+      "frequency_ci95_half_width": 0.0022547116825243746,
+      "frequency_late_minus_early": 0.0036609219410751724,
+      "frequency_late_minus_early_sem": 0.0022905071183033595,
+      "frequency_late_minus_early_ci95_half_width": 0.004499969732489163,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 3.0238769531250002e-05,
+          "sem": 1.8408531604993993e-07,
+          "half95": 3.616571822898474e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r026",
+      "number": 2,
+      "beta": 5.0,
+      "k": 8.0,
+      "omega": 1.0,
+      "initial": "death",
+      "frequency": 0.7898686395607587,
+      "frequency_sem": 0.001122322419683672,
+      "frequency_ci95_half_width": 0.002204933954718073,
+      "frequency_late_minus_early": 0.0005543782533700007,
+      "frequency_late_minus_early_sem": 0.0021513034426981106,
+      "frequency_late_minus_early_ci95_half_width": 0.004226487793983396,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 3.0607666015625e-05,
+          "sem": 1.9828480067832153e-07,
+          "half95": 3.895537343389817e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r027",
+      "number": 2,
+      "beta": 5.0,
+      "k": 15.0,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.769734495720393,
+      "frequency_sem": 0.0011522468399645198,
+      "frequency_ci95_half_width": 0.0022637239861700797,
+      "frequency_late_minus_early": -0.0005122581448029305,
+      "frequency_late_minus_early_sem": 0.0023614294887105264,
+      "frequency_late_minus_early_ci95_half_width": 0.004639305042839579,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 3.0869384765625006e-05,
+          "sem": 1.969867645244602e-07,
+          "half95": 3.870035901558982e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r028",
+      "number": 2,
+      "beta": 5.0,
+      "k": 15.0,
+      "omega": 1.0,
+      "initial": "death",
+      "frequency": 0.7696583701194215,
+      "frequency_sem": 0.0011558411730810826,
+      "frequency_ci95_half_width": 0.0022707854749136713,
+      "frequency_late_minus_early": -0.002509121855802237,
+      "frequency_late_minus_early_sem": 0.002299301824150634,
+      "frequency_late_minus_early_ci95_half_width": 0.004517247963062048,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 3.0840087890625e-05,
+          "sem": 1.9190662070689902e-07,
+          "half95": 3.770230521200022e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r029",
+      "number": 2,
+      "beta": 5.0,
+      "k": 30.0,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.755785194253522,
+      "frequency_sem": 0.0011525944486678323,
+      "frequency_ci95_half_width": 0.002264406904215239,
+      "frequency_late_minus_early": -0.0020164916482331144,
+      "frequency_late_minus_early_sem": 0.0022811593957413156,
+      "frequency_late_minus_early_ci95_half_width": 0.004481605035754205,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 3.0420166015624997e-05,
+          "sem": 1.8779887058636447e-07,
+          "half95": 3.6895289548817023e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r030",
+      "number": 2,
+      "beta": 5.0,
+      "k": 30.0,
+      "omega": 1.0,
+      "initial": "death",
+      "frequency": 0.7558203863456656,
+      "frequency_sem": 0.001137437678443859,
+      "frequency_ci95_half_width": 0.002234629652398317,
+      "frequency_late_minus_early": -0.0023886974396039357,
+      "frequency_late_minus_early_sem": 0.00225469128534112,
+      "frequency_late_minus_early_ci95_half_width": 0.004429605330219438,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 3.0507080078125e-05,
+          "sem": 2.0127686169162073e-07,
+          "half95": 3.954319889359727e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r031",
+      "number": 2,
+      "beta": 5.0,
+      "k": 50.0,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.7508308251823831,
+      "frequency_sem": 0.0011652801707286785,
+      "frequency_ci95_half_width": 0.0022893294922536746,
+      "frequency_late_minus_early": -2.694372803011642e-05,
+      "frequency_late_minus_early_sem": 0.0023675687621227226,
+      "frequency_late_minus_early_ci95_half_width": 0.004651366365117774,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 3.0701171874999994e-05,
+          "sem": 2.056129671262737e-07,
+          "half95": 4.0395077635073233e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r032",
+      "number": 2,
+      "beta": 5.0,
+      "k": 50.0,
+      "omega": 1.0,
+      "initial": "death",
+      "frequency": 0.749651410469693,
+      "frequency_sem": 0.001112909805588641,
+      "frequency_ci95_half_width": 0.002186441770959825,
+      "frequency_late_minus_early": -0.0010221358258311344,
+      "frequency_late_minus_early_sem": 0.002438820167832768,
+      "frequency_late_minus_early_ci95_half_width": 0.004791348103890981,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 3.0257080078125e-05,
+          "sem": 2.097417885015513e-07,
+          "half95": 4.120623299325286e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r033",
+      "number": 2,
+      "beta": 5.0,
+      "k": 75.0,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.7493439448255246,
+      "frequency_sem": 0.0011325856030891465,
+      "frequency_ci95_half_width": 0.0022250971815924035,
+      "frequency_late_minus_early": 0.0028031998642180696,
+      "frequency_late_minus_early_sem": 0.0023759445004852635,
+      "frequency_late_minus_early_ci95_half_width": 0.004667821484954556,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 3.0318603515624998e-05,
+          "sem": 2.051094140084839e-07,
+          "half95": 4.0296148722316433e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r034",
+      "number": 2,
+      "beta": 5.0,
+      "k": 75.0,
+      "omega": 1.0,
+      "initial": "death",
+      "frequency": 0.7471348007177261,
+      "frequency_sem": 0.0011557937722466232,
+      "frequency_ci95_half_width": 0.00227069235041794,
+      "frequency_late_minus_early": 0.002741426597697021,
+      "frequency_late_minus_early_sem": 0.0022265404351887773,
+      "frequency_late_minus_early_ci95_half_width": 0.004374299685186903,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 3.0198486328125003e-05,
+          "sem": 2.0145224415014544e-07,
+          "half95": 3.95776548334485e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r035",
+      "number": 2,
+      "beta": 5.0,
+      "k": 100.0,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.7471909360227342,
+      "frequency_sem": 0.001154515196594705,
+      "frequency_ci95_half_width": 0.002268180438672129,
+      "frequency_late_minus_early": 0.0002913276741664543,
+      "frequency_late_minus_early_sem": 0.0023680996883574733,
+      "frequency_late_minus_early_ci95_half_width": 0.004652409431942353,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 3.049560546875e-05,
+          "sem": 2.021892619660026e-07,
+          "half95": 3.9722450622868227e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r036",
+      "number": 2,
+      "beta": 5.0,
+      "k": 100.0,
+      "omega": 1.0,
+      "initial": "death",
+      "frequency": 0.7484644892167807,
+      "frequency_sem": 0.0011628589416452727,
+      "frequency_ci95_half_width": 0.0022845727038972082,
+      "frequency_late_minus_early": 0.0022071104785527738,
+      "frequency_late_minus_early_sem": 0.0024374636649159387,
+      "frequency_late_minus_early_ci95_half_width": 0.0047886830948984365,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 3.012158203125e-05,
+          "sem": 2.0630160680706264e-07,
+          "half95": 4.0530368972759045e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r037",
+      "number": 2,
+      "beta": 5.0,
+      "k": 125.0,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.746736314570356,
+      "frequency_sem": 0.0011680762364919804,
+      "frequency_ci95_half_width": 0.002294822691207026,
+      "frequency_late_minus_early": 0.002779208982613311,
+      "frequency_late_minus_early_sem": 0.002366957222634454,
+      "frequency_late_minus_early_ci95_half_width": 0.004650164924106987,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 2.998583984375e-05,
+          "sem": 1.9915847507617462e-07,
+          "half95": 3.91270170107713e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r038",
+      "number": 2,
+      "beta": 5.0,
+      "k": 125.0,
+      "omega": 1.0,
+      "initial": "death",
+      "frequency": 0.7459519800584489,
+      "frequency_sem": 0.0011708311981399413,
+      "frequency_ci95_half_width": 0.0023002351363074695,
+      "frequency_late_minus_early": -0.0029900271215278842,
+      "frequency_late_minus_early_sem": 0.0023370077978284694,
+      "frequency_late_minus_early_ci95_half_width": 0.00459132576833426,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 3.0128906249999998e-05,
+          "sem": 1.9699457613618754e-07,
+          "half95": 3.870189369828319e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r039",
+      "number": 2,
+      "beta": 5.0,
+      "k": 150.0,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.7448409744599337,
+      "frequency_sem": 0.001125834451357099,
+      "frequency_ci95_half_width": 0.0022118337526290575,
+      "frequency_late_minus_early": -0.001368382973169079,
+      "frequency_late_minus_early_sem": 0.002312418658159064,
+      "frequency_late_minus_early_ci95_half_width": 0.004543017521057458,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 2.9942470876037183e-05,
+          "sem": 2.0881598307853562e-07,
+          "half95": 4.102434766539451e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r040",
+      "number": 2,
+      "beta": 5.0,
+      "k": 150.0,
+      "omega": 1.0,
+      "initial": "death",
+      "frequency": 0.7449305811428866,
+      "frequency_sem": 0.001218267926753663,
+      "frequency_ci95_half_width": 0.0023934301503130005,
+      "frequency_late_minus_early": 0.004595231799633977,
+      "frequency_late_minus_early_sem": 0.0023475789841214474,
+      "frequency_late_minus_early_ci95_half_width": 0.004612094102985908,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 2.9690003621481487e-05,
+          "sem": 1.897554747906655e-07,
+          "half95": 3.727968738052241e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r041",
+      "number": 2,
+      "beta": 1.0,
+      "k": 0.0,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 1.0023745660486123,
+      "frequency_sem": 0.0016401981717062166,
+      "frequency_ci95_half_width": 0.003222361576168873,
+      "frequency_late_minus_early": 0.005329128412945736,
+      "frequency_late_minus_early_sem": 0.003211335424107294,
+      "frequency_late_minus_early_ci95_half_width": 0.006309044880880899,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 0.000108381591796875,
+          "sem": 3.2965154944039874e-07,
+          "half95": 6.476391113985098e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r042",
+      "number": 2,
+      "beta": 1.0,
+      "k": 1.0,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.9197912259473363,
+      "frequency_sem": 0.0016913980060384549,
+      "frequency_ci95_half_width": 0.003322949652478452,
+      "frequency_late_minus_early": 0.00110220460069794,
+      "frequency_late_minus_early_sem": 0.0035311361413456845,
+      "frequency_late_minus_early_ci95_half_width": 0.006937330877681057,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 0.00013804101562499998,
+          "sem": 3.622413973675627e-07,
+          "half95": 7.11665687909345e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r043",
+      "number": 2,
+      "beta": 1.0,
+      "k": 2.0,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.8574999492503379,
+      "frequency_sem": 0.0016304237068980652,
+      "frequency_ci95_half_width": 0.0032031584942677164,
+      "frequency_late_minus_early": -0.0021489295856669164,
+      "frequency_late_minus_early_sem": 0.003719328873311602,
+      "frequency_late_minus_early_ci95_half_width": 0.007307057560018707,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 0.0001420439453125,
+          "sem": 3.9982027609187913e-07,
+          "half95": 7.854938002470025e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r044",
+      "number": 2,
+      "beta": 1.0,
+      "k": 4.0,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.7991149544968305,
+      "frequency_sem": 0.0017283993950789089,
+      "frequency_ci95_half_width": 0.003395643218637475,
+      "frequency_late_minus_early": -0.008007079794126199,
+      "frequency_late_minus_early_sem": 0.0035664779388135935,
+      "frequency_late_minus_early_ci95_half_width": 0.007006763981654624,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 0.000142725830078125,
+          "sem": 4.032998880253946e-07,
+          "half95": 7.923299057786134e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r045",
+      "number": 2,
+      "beta": 1.0,
+      "k": 8.0,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.7604145397755424,
+      "frequency_sem": 0.0015983169812513627,
+      "frequency_ci95_half_width": 0.0031400810681095673,
+      "frequency_late_minus_early": -0.004690711206881962,
+      "frequency_late_minus_early_sem": 0.003368364571555837,
+      "frequency_late_minus_early_ci95_half_width": 0.0066175470483661675,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 0.00014072802734375,
+          "sem": 4.0136711019652493e-07,
+          "half95": 7.885327371690776e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r046",
+      "number": 2,
+      "beta": 1.0,
+      "k": 15.0,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.7397817025353567,
+      "frequency_sem": 0.0017100839841714425,
+      "frequency_ci95_half_width": 0.0033596604469346087,
+      "frequency_late_minus_early": 0.0003284515053351689,
+      "frequency_late_minus_early_sem": 0.003569701251169431,
+      "frequency_late_minus_early_ci95_half_width": 0.007013096556621853,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 0.000139635986328125,
+          "sem": 4.233024309462212e-07,
+          "half95": 8.316272460912724e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r047",
+      "number": 2,
+      "beta": 1.0,
+      "k": 30.0,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.7339510774414397,
+      "frequency_sem": 0.0017650699789622704,
+      "frequency_ci95_half_width": 0.003467686879287639,
+      "frequency_late_minus_early": -0.003555030913249304,
+      "frequency_late_minus_early_sem": 0.0034383801018551484,
+      "frequency_late_minus_early_ci95_half_width": 0.006755100765022791,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 0.00013864013671875,
+          "sem": 4.164450372036499e-07,
+          "half95": 8.181550922443162e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r048",
+      "number": 2,
+      "beta": 1.0,
+      "k": 50.0,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.719932093053645,
+      "frequency_sem": 0.0017015285195001984,
+      "frequency_ci95_half_width": 0.003342852233696443,
+      "frequency_late_minus_early": -0.0017965159041508547,
+      "frequency_late_minus_early_sem": 0.0032385412331931832,
+      "frequency_late_minus_early_ci95_half_width": 0.00636249388195847,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 0.00013858618164062502,
+          "sem": 4.170866588131611e-07,
+          "half95": 8.194156331085812e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r049",
+      "number": 2,
+      "beta": 1.0,
+      "k": 75.0,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.7202166639736395,
+      "frequency_sem": 0.0017750224838104663,
+      "frequency_ci95_half_width": 0.0034872397417177316,
+      "frequency_late_minus_early": 0.0030306696442640516,
+      "frequency_late_minus_early_sem": 0.0033435376896381805,
+      "frequency_late_minus_early_ci95_half_width": 0.0065687717285739765,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 0.00013805517578125,
+          "sem": 4.2677768542330205e-07,
+          "half95": 8.384547908889264e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r050",
+      "number": 2,
+      "beta": 1.0,
+      "k": 100.0,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.723513469492433,
+      "frequency_sem": 0.001635570184034328,
+      "frequency_ci95_half_width": 0.0032132693518839477,
+      "frequency_late_minus_early": -0.0024222088363109306,
+      "frequency_late_minus_early_sem": 0.0033974337896423945,
+      "frequency_late_minus_early_ci95_half_width": 0.006674656934858697,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 0.000137560302734375,
+          "sem": 4.2776194721180375e-07,
+          "half95": 8.403884885498984e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r051",
+      "number": 2,
+      "beta": 1.0,
+      "k": 125.0,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.7216254962621895,
+      "frequency_sem": 0.0016221051146887812,
+      "frequency_ci95_half_width": 0.0031868156447478137,
+      "frequency_late_minus_early": 0.0015147266249453026,
+      "frequency_late_minus_early_sem": 0.0032733876741749953,
+      "frequency_late_minus_early_ci95_half_width": 0.006430953800048258,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 0.00013687646484375,
+          "sem": 4.131555770993513e-07,
+          "half95": 8.116925622712424e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r052",
+      "number": 2,
+      "beta": 1.0,
+      "k": 150.0,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.7184849607217895,
+      "frequency_sem": 0.0017376222973578984,
+      "frequency_ci95_half_width": 0.003413762691294648,
+      "frequency_late_minus_early": 0.0022032247020307523,
+      "frequency_late_minus_early_sem": 0.003185970543413394,
+      "frequency_late_minus_early_ci95_half_width": 0.006259212599427307,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 0.00013461427900544046,
+          "sem": 4.295860574494411e-07,
+          "half95": 8.4397216693819e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r053",
+      "number": 2,
+      "beta": 50.0,
+      "k": 0.0,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.9999488552291879,
+      "frequency_sem": 0.00015153937446214653,
+      "frequency_ci95_half_width": 0.00029771686492950915,
+      "frequency_late_minus_early": 0.00024221634461102067,
+      "frequency_late_minus_early_sem": 0.00029502500080782324,
+      "frequency_late_minus_early_ci95_half_width": 0.0005796111976050907,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 3.1738281250000002e-09,
+          "sem": 1.6694872989355624e-09,
+          "half95": 3.2799034999506724e-09,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r054",
+      "number": 2,
+      "beta": 50.0,
+      "k": 1.0,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.9984778391095083,
+      "frequency_sem": 0.00014564623777237843,
+      "frequency_ci95_half_width": 0.00028613910709524357,
+      "frequency_late_minus_early": -0.00013214511358697377,
+      "frequency_late_minus_early_sem": 0.0002833810999537913,
+      "frequency_late_minus_early_ci95_half_width": 0.0005567353894521519,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 3.1738281250000002e-09,
+          "sem": 2.275091065856751e-09,
+          "half95": 4.469683090352207e-09,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r055",
+      "number": 2,
+      "beta": 50.0,
+      "k": 2.0,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.9981573664539813,
+      "frequency_sem": 0.0001522163313281641,
+      "frequency_ci95_half_width": 0.0002990468260472621,
+      "frequency_late_minus_early": 0.0002774913451929371,
+      "frequency_late_minus_early_sem": 0.000292376243724841,
+      "frequency_late_minus_early_ci95_half_width": 0.0005744074038220941,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 9.033203125000001e-09,
+          "sem": 3.0943311831465507e-09,
+          "half95": 6.079176334003727e-09,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r056",
+      "number": 2,
+      "beta": 50.0,
+      "k": 4.0,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.9968062812488377,
+      "frequency_sem": 0.00022900361839953262,
+      "frequency_ci95_half_width": 0.0004499044526837014,
+      "frequency_late_minus_early": 0.00014449440432356465,
+      "frequency_late_minus_early_sem": 0.0004665678578312616,
+      "frequency_late_minus_early_ci95_half_width": 0.0009166272488810997,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 1.5380859374999997e-08,
+          "sem": 3.618532262176189e-09,
+          "half95": 7.109030801829535e-09,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r057",
+      "number": 2,
+      "beta": 50.0,
+      "k": 8.0,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.9880182424436632,
+      "frequency_sem": 0.0008532940448234539,
+      "frequency_ci95_half_width": 0.0016763961761721285,
+      "frequency_late_minus_early": -0.0031974551266222727,
+      "frequency_late_minus_early_sem": 0.0016736053411922987,
+      "frequency_late_minus_early_ci95_half_width": 0.003287993876690541,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 5.9814453125e-08,
+          "sem": 7.157286581645635e-09,
+          "half95": 1.4061328483455316e-08,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r058",
+      "number": 2,
+      "beta": 50.0,
+      "k": 15.0,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.9675907801942998,
+      "frequency_sem": 0.002172005743541259,
+      "frequency_ci95_half_width": 0.0042671598907617105,
+      "frequency_late_minus_early": -0.0003112704544203917,
+      "frequency_late_minus_early_sem": 0.004275808147558217,
+      "frequency_late_minus_early_ci95_half_width": 0.008400326326073532,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 7.32421875e-08,
+          "sem": 8.091204829165098e-09,
+          "half95": 1.589612035678068e-08,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r059",
+      "number": 2,
+      "beta": 50.0,
+      "k": 30.0,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.9420144125729806,
+      "frequency_sem": 0.0030959571775519726,
+      "frequency_ci95_half_width": 0.006082370790616031,
+      "frequency_late_minus_early": -0.0012755352212224852,
+      "frequency_late_minus_early_sem": 0.006203422035314574,
+      "frequency_late_minus_early_ci95_half_width": 0.012187349767962936,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 1.14501953125e-07,
+          "sem": 1.0970943766850326e-08,
+          "half95": 2.155370506957254e-08,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r060",
+      "number": 2,
+      "beta": 50.0,
+      "k": 50.0,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.9295397564398037,
+      "frequency_sem": 0.0037532050787681573,
+      "frequency_ci95_half_width": 0.007373611336685859,
+      "frequency_late_minus_early": 0.004719840024463379,
+      "frequency_late_minus_early_sem": 0.007316713688413547,
+      "frequency_late_minus_early_ci95_half_width": 0.014374541723117864,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 9.838867187500001e-08,
+          "sem": 9.419850652383328e-09,
+          "half95": 1.850640082345257e-08,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r061",
+      "number": 2,
+      "beta": 50.0,
+      "k": 75.0,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.9147655597052047,
+      "frequency_sem": 0.004545185533385882,
+      "frequency_ci95_half_width": 0.008929549777576902,
+      "frequency_late_minus_early": 0.001350036580967228,
+      "frequency_late_minus_early_sem": 0.007618395504968143,
+      "frequency_late_minus_early_ci95_half_width": 0.014967231015584942,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 1.1865234375e-07,
+          "sem": 1.0754580662116416e-08,
+          "half95": 2.1128634387735422e-08,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r062",
+      "number": 2,
+      "beta": 50.0,
+      "k": 100.0,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.9137623643863311,
+      "frequency_sem": 0.004496110637719135,
+      "frequency_ci95_half_width": 0.008833136392365944,
+      "frequency_late_minus_early": 0.0047576291907136725,
+      "frequency_late_minus_early_sem": 0.008247443237504731,
+      "frequency_late_minus_early_ci95_half_width": 0.016203069024594213,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 1.06689453125e-07,
+          "sem": 9.670799004126097e-09,
+          "half95": 1.8999418277201843e-08,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r063",
+      "number": 2,
+      "beta": 50.0,
+      "k": 125.0,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.8998898076882709,
+      "frequency_sem": 0.004858994896000833,
+      "frequency_ci95_half_width": 0.009546065055898762,
+      "frequency_late_minus_early": -0.007497945708044731,
+      "frequency_late_minus_early_sem": 0.00891925741741263,
+      "frequency_late_minus_early_ci95_half_width": 0.01752292673264705,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 1.3549804687499998e-07,
+          "sem": 1.1549062641662639e-08,
+          "half95": 2.2689487367583082e-08,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r064",
+      "number": 2,
+      "beta": 50.0,
+      "k": 150.0,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.9012704087728207,
+      "frequency_sem": 0.00510054815193665,
+      "frequency_ci95_half_width": 0.010020624742620252,
+      "frequency_late_minus_early": -0.0020475343628171844,
+      "frequency_late_minus_early_sem": 0.009060159942872818,
+      "frequency_late_minus_early_ci95_half_width": 0.01779974626083598,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 1.2926517452275047e-07,
+          "sem": 1.1345377801568569e-08,
+          "half95": 2.228932462280666e-08,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r065",
+      "number": 2,
+      "beta": 5.0,
+      "k": 0.0,
+      "omega": 0.1,
+      "initial": "synchronized",
+      "frequency": 0.991266716710622,
+      "frequency_sem": 0.007872792547249466,
+      "frequency_ci95_half_width": 0.015467023826160746,
+      "frequency_late_minus_early": -0.008881851246260541,
+      "frequency_late_minus_early_sem": 0.015719903637649732,
+      "frequency_late_minus_early_ci95_half_width": 0.030883593419901018,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 2.1470703125e-05,
+          "sem": 1.5651004897124144e-07,
+          "half95": 3.0748233767667573e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r066",
+      "number": 2,
+      "beta": 5.0,
+      "k": 1.0,
+      "omega": 0.1,
+      "initial": "synchronized",
+      "frequency": 0.7703018700713922,
+      "frequency_sem": 0.008126433203935678,
+      "frequency_ci95_half_width": 0.015965330628569672,
+      "frequency_late_minus_early": -0.00333300472514863,
+      "frequency_late_minus_early_sem": 0.01741113586982545,
+      "frequency_late_minus_early_ci95_half_width": 0.03420621739019372,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 2.6024169921875002e-05,
+          "sem": 1.7224220549935109e-07,
+          "half95": 3.3839000333619766e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r067",
+      "number": 2,
+      "beta": 5.0,
+      "k": 2.0,
+      "omega": 0.1,
+      "initial": "synchronized",
+      "frequency": 0.7378693844070416,
+      "frequency_sem": 0.007978805465564693,
+      "frequency_ci95_half_width": 0.015675298631272348,
+      "frequency_late_minus_early": 0.008375813879074795,
+      "frequency_late_minus_early_sem": 0.01629936737010172,
+      "frequency_late_minus_early_ci95_half_width": 0.03202201784839205,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 2.477197265625e-05,
+          "sem": 1.6965531034236773e-07,
+          "half95": 3.3330774455842503e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r068",
+      "number": 2,
+      "beta": 5.0,
+      "k": 4.0,
+      "omega": 0.1,
+      "initial": "synchronized",
+      "frequency": 0.7032389021190852,
+      "frequency_sem": 0.007893917402572089,
+      "frequency_ci95_half_width": 0.015508526080746808,
+      "frequency_late_minus_early": -0.004974346100694145,
+      "frequency_late_minus_early_sem": 0.016633912594816943,
+      "frequency_late_minus_early_ci95_half_width": 0.032679271158515974,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 2.475732421875e-05,
+          "sem": 1.7712132941482117e-07,
+          "half95": 3.479756142104143e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r069",
+      "number": 2,
+      "beta": 5.0,
+      "k": 8.0,
+      "omega": 0.1,
+      "initial": "synchronized",
+      "frequency": 0.6944980259057751,
+      "frequency_sem": 0.007817117625507011,
+      "frequency_ci95_half_width": 0.01535764391605362,
+      "frequency_late_minus_early": 0.020513358419845213,
+      "frequency_late_minus_early_sem": 0.015509869089606354,
+      "frequency_late_minus_early_ci95_half_width": 0.030470955929530617,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 2.41474609375e-05,
+          "sem": 1.7928313696407778e-07,
+          "half95": 3.5222273855304776e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r070",
+      "number": 2,
+      "beta": 5.0,
+      "k": 15.0,
+      "omega": 0.1,
+      "initial": "synchronized",
+      "frequency": 0.706186167751208,
+      "frequency_sem": 0.007171332103346865,
+      "frequency_ci95_half_width": 0.014088922557286165,
+      "frequency_late_minus_early": 0.00032399987596344257,
+      "frequency_late_minus_early_sem": 0.01550245702868649,
+      "frequency_late_minus_early_ci95_half_width": 0.030456394066994488,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 2.4068847656250002e-05,
+          "sem": 1.8846336641834294e-07,
+          "half95": 3.702583754438419e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r071",
+      "number": 2,
+      "beta": 5.0,
+      "k": 30.0,
+      "omega": 0.1,
+      "initial": "synchronized",
+      "frequency": 0.6831394086895632,
+      "frequency_sem": 0.007469261264216402,
+      "frequency_ci95_half_width": 0.014674239317764903,
+      "frequency_late_minus_early": -0.0010803170833126128,
+      "frequency_late_minus_early_sem": 0.01461216737310674,
+      "frequency_late_minus_early_ci95_half_width": 0.02870731567677991,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 2.3552978515624997e-05,
+          "sem": 1.7758514793692473e-07,
+          "half95": 3.488868400669748e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r072",
+      "number": 2,
+      "beta": 5.0,
+      "k": 50.0,
+      "omega": 0.1,
+      "initial": "synchronized",
+      "frequency": 0.6869770289640846,
+      "frequency_sem": 0.007618655696279375,
+      "frequency_ci95_half_width": 0.01496774219191609,
+      "frequency_late_minus_early": -0.004868111471302619,
+      "frequency_late_minus_early_sem": 0.014878718932897952,
+      "frequency_late_minus_early_ci95_half_width": 0.029230987461784756,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 2.316748046875e-05,
+          "sem": 1.7463004461031707e-07,
+          "half95": 3.4308119317775554e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r073",
+      "number": 2,
+      "beta": 5.0,
+      "k": 75.0,
+      "omega": 0.1,
+      "initial": "synchronized",
+      "frequency": 0.6890683431981295,
+      "frequency_sem": 0.007362072745500998,
+      "frequency_ci95_half_width": 0.014463654907860536,
+      "frequency_late_minus_early": 0.01156333237291704,
+      "frequency_late_minus_early_sem": 0.015384398775445583,
+      "frequency_late_minus_early_ci95_half_width": 0.030224454789439158,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 2.406298828125e-05,
+          "sem": 1.7520042456766243e-07,
+          "half95": 3.4420177146522834e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r074",
+      "number": 2,
+      "beta": 5.0,
+      "k": 100.0,
+      "omega": 0.1,
+      "initial": "synchronized",
+      "frequency": 0.6916545916776642,
+      "frequency_sem": 0.007526742515807107,
+      "frequency_ci95_half_width": 0.01478716797460111,
+      "frequency_late_minus_early": -0.020785134588398375,
+      "frequency_late_minus_early_sem": 0.014921482320684127,
+      "frequency_late_minus_early_ci95_half_width": 0.029315001149914668,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 2.30859375e-05,
+          "sem": 1.7661006429452133e-07,
+          "half95": 3.469711739498964e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r075",
+      "number": 2,
+      "beta": 5.0,
+      "k": 125.0,
+      "omega": 0.1,
+      "initial": "synchronized",
+      "frequency": 0.6889954889091069,
+      "frequency_sem": 0.0075180912924056155,
+      "frequency_ci95_half_width": 0.014770171632112312,
+      "frequency_late_minus_early": -0.01265419365723649,
+      "frequency_late_minus_early_sem": 0.015276541304962553,
+      "frequency_late_minus_early_ci95_half_width": 0.030012556145371204,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 2.34677734375e-05,
+          "sem": 1.7983334251675872e-07,
+          "half95": 3.533036818576665e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r076",
+      "number": 2,
+      "beta": 5.0,
+      "k": 150.0,
+      "omega": 0.1,
+      "initial": "synchronized",
+      "frequency": 0.6947237356782203,
+      "frequency_sem": 0.007063851262162864,
+      "frequency_ci95_half_width": 0.013877763845625519,
+      "frequency_late_minus_early": 0.005618556033076379,
+      "frequency_late_minus_early_sem": 0.015006043981319923,
+      "frequency_late_minus_early_ci95_half_width": 0.029481132444748613,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 2.3118355768984078e-05,
+          "sem": 1.7111478030996155e-07,
+          "half95": 3.3617504439223386e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r077",
+      "number": 2,
+      "beta": 5.0,
+      "k": 0.0,
+      "omega": 5.0,
+      "initial": "synchronized",
+      "frequency": 1.000177304782763,
+      "frequency_sem": 0.00015644169849361213,
+      "frequency_ci95_half_width": 0.00030734805515117067,
+      "frequency_late_minus_early": 0.00013333518643535137,
+      "frequency_late_minus_early_sem": 0.0003241114205979098,
+      "frequency_late_minus_early_ci95_half_width": 0.0006367548788606266,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 2.1677001953124998e-05,
+          "sem": 1.5684291337139658e-07,
+          "half95": 3.081362888099212e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r078",
+      "number": 2,
+      "beta": 5.0,
+      "k": 1.0,
+      "omega": 5.0,
+      "initial": "synchronized",
+      "frequency": 0.9967262629113571,
+      "frequency_sem": 0.00019084582148935433,
+      "frequency_ci95_half_width": 0.0003749389877077793,
+      "frequency_late_minus_early": -0.0007154995285219195,
+      "frequency_late_minus_early_sem": 0.0003527757178178066,
+      "frequency_late_minus_early_ci95_half_width": 0.0006930692508448333,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 2.9525634765624997e-05,
+          "sem": 1.920435629389352e-07,
+          "half95": 3.7729209118752486e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r079",
+      "number": 2,
+      "beta": 5.0,
+      "k": 2.0,
+      "omega": 5.0,
+      "initial": "synchronized",
+      "frequency": 0.9942930467690384,
+      "frequency_sem": 0.00017682008600335825,
+      "frequency_ci95_half_width": 0.0003473837862161407,
+      "frequency_late_minus_early": 0.0002857718718960018,
+      "frequency_late_minus_early_sem": 0.0003559601672833015,
+      "frequency_late_minus_early_ci95_half_width": 0.0006993254751083856,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 2.5533447265625e-05,
+          "sem": 1.8796895692992902e-07,
+          "half95": 3.6928705004802035e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r080",
+      "number": 2,
+      "beta": 5.0,
+      "k": 4.0,
+      "omega": 5.0,
+      "initial": "synchronized",
+      "frequency": 0.9890054488464094,
+      "frequency_sem": 0.00017542345709169237,
+      "frequency_ci95_half_width": 0.00034463994500307736,
+      "frequency_late_minus_early": 0.00012104695894764924,
+      "frequency_late_minus_early_sem": 0.00035588498917652557,
+      "frequency_late_minus_early_ci95_half_width": 0.0006991777789050713,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 2.34921875e-05,
+          "sem": 1.764101024539083e-07,
+          "half95": 3.465783254740192e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r081",
+      "number": 2,
+      "beta": 5.0,
+      "k": 8.0,
+      "omega": 5.0,
+      "initial": "synchronized",
+      "frequency": 0.9773721614571457,
+      "frequency_sem": 0.00020979333781119753,
+      "frequency_ci95_half_width": 0.00041216360459405885,
+      "frequency_late_minus_early": 8.175796741725742e-05,
+      "frequency_late_minus_early_sem": 0.00042391484211051224,
+      "frequency_late_minus_early_ci95_half_width": 0.000832830399611786,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 2.4264648437499998e-05,
+          "sem": 1.8138894309949026e-07,
+          "half95": 3.563598415535681e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r082",
+      "number": 2,
+      "beta": 5.0,
+      "k": 15.0,
+      "omega": 5.0,
+      "initial": "synchronized",
+      "frequency": 0.9524802646747286,
+      "frequency_sem": 0.00028516384158247407,
+      "frequency_ci95_half_width": 0.0005602377943588274,
+      "frequency_late_minus_early": -0.0009307589749017087,
+      "frequency_late_minus_early_sem": 0.0005432111153531465,
+      "frequency_late_minus_early_ci95_half_width": 0.0010672019125840988,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 2.7184326171875e-05,
+          "sem": 1.8497012679503942e-07,
+          "half95": 3.633954967181728e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r083",
+      "number": 2,
+      "beta": 5.0,
+      "k": 30.0,
+      "omega": 5.0,
+      "initial": "synchronized",
+      "frequency": 0.9063029865198136,
+      "frequency_sem": 0.00044388464042878067,
+      "frequency_ci95_half_width": 0.0008720634093143209,
+      "frequency_late_minus_early": -0.002173999721526226,
+      "frequency_late_minus_early_sem": 0.0008318632791908294,
+      "frequency_late_minus_early_ci95_half_width": 0.001634292924922548,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 3.193310546875e-05,
+          "sem": 1.9162077418563248e-07,
+          "half95": 3.7646147312137873e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r084",
+      "number": 2,
+      "beta": 5.0,
+      "k": 50.0,
+      "omega": 5.0,
+      "initial": "synchronized",
+      "frequency": 0.8670672851450466,
+      "frequency_sem": 0.0005346756380925876,
+      "frequency_ci95_half_width": 0.0010504329669571955,
+      "frequency_late_minus_early": -0.0024059346146542283,
+      "frequency_late_minus_early_sem": 0.001086144472361666,
+      "frequency_late_minus_early_ci95_half_width": 0.002133858136340698,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 3.333984375e-05,
+          "sem": 1.9321548847299481e-07,
+          "half95": 3.795944762750271e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r085",
+      "number": 2,
+      "beta": 5.0,
+      "k": 75.0,
+      "omega": 5.0,
+      "initial": "synchronized",
+      "frequency": 0.8375107118646407,
+      "frequency_sem": 0.000639480483274073,
+      "frequency_ci95_half_width": 0.0012563343707844132,
+      "frequency_late_minus_early": -0.000387808524799969,
+      "frequency_late_minus_early_sem": 0.0012341141756681765,
+      "frequency_late_minus_early_ci95_half_width": 0.0024245619638397884,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 3.4111083984374996e-05,
+          "sem": 1.757885806352363e-07,
+          "half95": 3.4535727300500207e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r086",
+      "number": 2,
+      "beta": 5.0,
+      "k": 100.0,
+      "omega": 5.0,
+      "initial": "synchronized",
+      "frequency": 0.8194443189370015,
+      "frequency_sem": 0.0006488550185153639,
+      "frequency_ci95_half_width": 0.0012747517441707966,
+      "frequency_late_minus_early": 0.0002470864635208182,
+      "frequency_late_minus_early_sem": 0.001409738431716962,
+      "frequency_late_minus_early_ci95_half_width": 0.0027695964019321968,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 3.429541015625e-05,
+          "sem": 1.8881980270035004e-07,
+          "half95": 3.709586363021365e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r087",
+      "number": 2,
+      "beta": 5.0,
+      "k": 125.0,
+      "omega": 5.0,
+      "initial": "synchronized",
+      "frequency": 0.8084368994641336,
+      "frequency_sem": 0.0006855214310129821,
+      "frequency_ci95_half_width": 0.001346787209644688,
+      "frequency_late_minus_early": -0.000110368905275369,
+      "frequency_late_minus_early_sem": 0.0014225561114508875,
+      "frequency_late_minus_early_ci95_half_width": 0.0027947782362877822,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 3.4610595703125e-05,
+          "sem": 1.8223038911574747e-07,
+          "half95": 3.5801296088876833e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r088",
+      "number": 2,
+      "beta": 5.0,
+      "k": 150.0,
+      "omega": 5.0,
+      "initial": "synchronized",
+      "frequency": 0.7990545327968133,
+      "frequency_sem": 0.0007150002235599035,
+      "frequency_ci95_half_width": 0.001404701753175875,
+      "frequency_late_minus_early": 0.0019763054521685,
+      "frequency_late_minus_early_sem": 0.0014372449306594122,
+      "frequency_late_minus_early_ci95_half_width": 0.0028236361434805473,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 3.379025926776961e-05,
+          "sem": 1.9119052641372063e-07,
+          "half95": 3.756162009388114e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r089",
+      "number": 8,
+      "beta": 5.0,
+      "k": 0.0,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 1.0005473605799218,
+      "frequency_sem": 0.00040566903797040633,
+      "frequency_ci95_half_width": 0.0007969843785628665,
+      "frequency_late_minus_early": -1.8235943880801986e-05,
+      "frequency_late_minus_early_sem": 0.0008106322409943301,
+      "frequency_late_minus_early_ci95_half_width": 0.0015925820616337508,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 2.149945068359375e-05,
+          "sem": 7.555174911263667e-08,
+          "half95": 1.4843026748387176e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r090",
+      "number": 8,
+      "beta": 5.0,
+      "k": 1.0,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.5888398917411917,
+      "frequency_sem": 0.0007870792613341508,
+      "frequency_ci95_half_width": 0.001546309472156165,
+      "frequency_late_minus_early": 0.00226046857653007,
+      "frequency_late_minus_early_sem": 0.001529915374581352,
+      "frequency_late_minus_early_ci95_half_width": 0.0030056980936105943,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 5.0447143554687506e-05,
+          "sem": 1.4463042745732286e-07,
+          "half95": 2.8414342865566454e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r091",
+      "number": 8,
+      "beta": 5.0,
+      "k": 2.0,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.5160081456672595,
+      "frequency_sem": 0.0008108687496119449,
+      "frequency_ci95_half_width": 0.0015930467105371464,
+      "frequency_late_minus_early": 0.0009019965793897711,
+      "frequency_late_minus_early_sem": 0.0016713049334844768,
+      "frequency_late_minus_early_ci95_half_width": 0.003283474456089372,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 5.09642333984375e-05,
+          "sem": 1.4975444435739393e-07,
+          "half95": 2.942101605050562e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r092",
+      "number": 8,
+      "beta": 5.0,
+      "k": 4.0,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.4761421918063188,
+      "frequency_sem": 0.0008423275519393589,
+      "frequency_ci95_half_width": 0.0016548512153834718,
+      "frequency_late_minus_early": -0.0005740195748555163,
+      "frequency_late_minus_early_sem": 0.0017569834528547983,
+      "frequency_late_minus_early_ci95_half_width": 0.003451799950828075,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 5.111700439453125e-05,
+          "sem": 1.543915228986891e-07,
+          "half95": 3.0332024486858345e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r093",
+      "number": 8,
+      "beta": 5.0,
+      "k": 8.0,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.45413956871903194,
+      "frequency_sem": 0.0008105055015536398,
+      "frequency_ci95_half_width": 0.0015923330671458221,
+      "frequency_late_minus_early": 0.0012250045352095672,
+      "frequency_late_minus_early_sem": 0.0016461233476771399,
+      "frequency_late_minus_early_ci95_half_width": 0.0032340022789266874,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 5.13988037109375e-05,
+          "sem": 1.7149622035255962e-07,
+          "half95": 3.3692442806920847e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r094",
+      "number": 8,
+      "beta": 5.0,
+      "k": 15.0,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.443931114410695,
+      "frequency_sem": 0.0008343883525083873,
+      "frequency_ci95_half_width": 0.0016392537274498692,
+      "frequency_late_minus_early": -0.0020502027840790214,
+      "frequency_late_minus_early_sem": 0.0015924258916052364,
+      "frequency_late_minus_early_ci95_half_width": 0.0031285073319324954,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 5.114129638671875e-05,
+          "sem": 1.765920542120686e-07,
+          "half95": 3.469357910317342e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r095",
+      "number": 8,
+      "beta": 5.0,
+      "k": 30.0,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.4382049388358551,
+      "frequency_sem": 0.0008158183572620917,
+      "frequency_ci95_half_width": 0.0016027707949704032,
+      "frequency_late_minus_early": 0.002869192874123114,
+      "frequency_late_minus_early_sem": 0.0015958804533217333,
+      "frequency_late_minus_early_ci95_half_width": 0.0031352942233763286,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 5.0546325683593755e-05,
+          "sem": 1.6564035736986953e-07,
+          "half95": 3.254198988018084e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r096",
+      "number": 8,
+      "beta": 5.0,
+      "k": 50.0,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.43632787149835006,
+      "frequency_sem": 0.0007828650659442426,
+      "frequency_ci95_half_width": 0.0015380301913148857,
+      "frequency_late_minus_early": 0.0015471232644131746,
+      "frequency_late_minus_early_sem": 0.0015739614150019773,
+      "frequency_late_minus_early_ci95_half_width": 0.0030922317031964156,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 3.720889874358675e-05,
+          "sem": 1.344271918920599e-07,
+          "half95": 2.640979763406548e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r097",
+      "number": 8,
+      "beta": 5.0,
+      "k": 75.0,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.43452939905039506,
+      "frequency_sem": 0.0007949829104025428,
+      "frequency_ci95_half_width": 0.0015618371172351835,
+      "frequency_late_minus_early": -0.00019608727481090998,
+      "frequency_late_minus_early_sem": 0.0015987973448970756,
+      "frequency_late_minus_early_ci95_half_width": 0.0031410247988009165,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 2.4830925502764722e-05,
+          "sem": 8.987155539973716e-08,
+          "half95": 1.7656320553594458e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r098",
+      "number": 8,
+      "beta": 5.0,
+      "k": 100.0,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.43483984451152524,
+      "frequency_sem": 0.0008226046145031914,
+      "frequency_ci95_half_width": 0.001616103192821432,
+      "frequency_late_minus_early": -0.00034527621279910716,
+      "frequency_late_minus_early_sem": 0.0016563511072810288,
+      "frequency_late_minus_early_ci95_half_width": 0.0032540959115903425,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 1.8582694235744832e-05,
+          "sem": 6.627095883227111e-08,
+          "half95": 1.3019706706222899e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r099",
+      "number": 8,
+      "beta": 5.0,
+      "k": 125.0,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.4337579217847155,
+      "frequency_sem": 0.000814640066738374,
+      "frequency_ci95_half_width": 0.0016004559051145987,
+      "frequency_late_minus_early": -0.001538096515873012,
+      "frequency_late_minus_early_sem": 0.001524377183977441,
+      "frequency_late_minus_early_ci95_half_width": 0.0029948176689696022,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 1.4919733287331586e-05,
+          "sem": 5.69050441654398e-08,
+          "half95": 1.1179662980489526e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r100",
+      "number": 8,
+      "beta": 5.0,
+      "k": 150.0,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.4334255747699281,
+      "frequency_sem": 0.0007941440012158254,
+      "frequency_ci95_half_width": 0.0015601889817989873,
+      "frequency_late_minus_early": 0.0012076709742650804,
+      "frequency_late_minus_early_sem": 0.0015738398878010111,
+      "frequency_late_minus_early_ci95_half_width": 0.003091992948764416,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 1.2439167697032702e-05,
+          "sem": 4.719168867416313e-08,
+          "half95": 9.271360432011552e-08,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r101",
+      "number": 2,
+      "beta": 5.0,
+      "k": 1.69,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.8862213774450416,
+      "frequency_sem": 0.0010453789242460322,
+      "frequency_ci95_half_width": 0.002053769438434985,
+      "frequency_late_minus_early": -0.0008518115387835157,
+      "frequency_late_minus_early_sem": 0.0020654302021067632,
+      "frequency_late_minus_early_ci95_half_width": 0.004057779746580312,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 1.564111328125e-05,
+          "sem": 1.013053522509198e-07,
+          "half95": 1.990262397464051e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r102",
+      "number": 2,
+      "beta": 5.0,
+      "k": 1.69,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.8863588927163697,
+      "frequency_sem": 0.0010245364150557519,
+      "frequency_ci95_half_width": 0.0020128218859231804,
+      "frequency_late_minus_early": -0.00039278692188646756,
+      "frequency_late_minus_early_sem": 0.002011819019139498,
+      "frequency_late_minus_early_ci95_half_width": 0.003952454293213317,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 7.77020263671875e-06,
+          "sem": 5.152657847675248e-08,
+          "half95": 1.01230003483187e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r103",
+      "number": 2,
+      "beta": 5.0,
+      "k": 1.69,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.8862009291437477,
+      "frequency_sem": 0.0010135241365180746,
+      "frequency_ci95_half_width": 0.00199118697385096,
+      "frequency_late_minus_early": 0.0004695137301068031,
+      "frequency_late_minus_early_sem": 0.0018959102884440928,
+      "frequency_late_minus_early_ci95_half_width": 0.0037247380046706675,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 3.0801025390625e-05,
+          "sem": 1.8800983397022775e-07,
+          "half95": 3.6936735778538914e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r104",
+      "number": 2,
+      "beta": 5.0,
+      "k": 2.0,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.8728921521918811,
+      "frequency_sem": 0.0010542515558280654,
+      "frequency_ci95_half_width": 0.0020712007632484397,
+      "frequency_late_minus_early": -0.0027645769065260273,
+      "frequency_late_minus_early_sem": 0.0019012663914009687,
+      "frequency_late_minus_early_ci95_half_width": 0.0037352606967843206,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 1.5423339843750002e-05,
+          "sem": 9.510093397450657e-08,
+          "half95": 1.8683693274602216e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r105",
+      "number": 2,
+      "beta": 5.0,
+      "k": 2.0,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.8734945746644281,
+      "frequency_sem": 0.0010850079577953363,
+      "frequency_ci95_half_width": 0.002131625320250257,
+      "frequency_late_minus_early": 0.0022971750818951923,
+      "frequency_late_minus_early_sem": 0.0022215565434756043,
+      "frequency_late_minus_early_ci95_half_width": 0.004364508245692973,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 7.76458740234375e-06,
+          "sem": 5.2341402296280506e-08,
+          "half95": 1.028308203921968e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r106",
+      "number": 2,
+      "beta": 5.0,
+      "k": 2.0,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.8749992684447448,
+      "frequency_sem": 0.0010758191876426033,
+      "frequency_ci95_half_width": 0.002113572904156162,
+      "frequency_late_minus_early": 0.00021029304941242192,
+      "frequency_late_minus_early_sem": 0.001943270030365774,
+      "frequency_late_minus_early_ci95_half_width": 0.003817781769295125,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 3.0738037109375004e-05,
+          "sem": 2.024240866121912e-07,
+          "half95": 3.9768584677281203e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r107",
+      "number": 2,
+      "beta": 1.0,
+      "k": 20.0,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.7324463219492443,
+      "frequency_sem": 0.0016439571948622862,
+      "frequency_ci95_half_width": 0.003229746617800426,
+      "frequency_late_minus_early": 0.00446599018163212,
+      "frequency_late_minus_early_sem": 0.0034280205897217995,
+      "frequency_late_minus_early_ci95_half_width": 0.006734748289070672,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 0.00013953759765625,
+          "sem": 3.9987844868736055e-07,
+          "half95": 7.85608087129953e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r108",
+      "number": 2,
+      "beta": 1.0,
+      "k": 20.0,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.7360339692703197,
+      "frequency_sem": 0.0018392502424473282,
+      "frequency_ci95_half_width": 0.0036134227024873906,
+      "frequency_late_minus_early": 0.0046869910077051895,
+      "frequency_late_minus_early_sem": 0.0035005307239186034,
+      "frequency_late_minus_early_ci95_half_width": 0.006877202947507203,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 6.967004394531249e-05,
+          "sem": 2.2088899867089198e-07,
+          "half95": 4.3396233101215195e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r109",
+      "number": 2,
+      "beta": 1.0,
+      "k": 20.0,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.73406572019614,
+      "frequency_sem": 0.0019365154432581877,
+      "frequency_ci95_half_width": 0.0038045115911338303,
+      "frequency_late_minus_early": -0.00515458157272782,
+      "frequency_late_minus_early_sem": 0.003470174143741515,
+      "frequency_late_minus_early_ci95_half_width": 0.006817563887280241,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 3.515106201171875e-05,
+          "sem": 1.1534191041562471e-07,
+          "half95": 2.2660270365902683e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r110",
+      "number": 2,
+      "beta": 1.0,
+      "k": 20.0,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.7389569293536927,
+      "frequency_sem": 0.0016857822452394518,
+      "frequency_ci95_half_width": 0.0033119168320962424,
+      "frequency_late_minus_early": -0.0028954383010612824,
+      "frequency_late_minus_early_sem": 0.003547995864695113,
+      "frequency_late_minus_early_ci95_half_width": 0.00697045378053707,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 0.000139877197265625,
+          "sem": 3.9479934164357204e-07,
+          "half95": 7.756295859576665e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r111",
+      "number": 2,
+      "beta": 5.0,
+      "k": 20.0,
+      "omega": 0.1,
+      "initial": "synchronized",
+      "frequency": 0.6993752896808991,
+      "frequency_sem": 0.007573295520463581,
+      "frequency_ci95_half_width": 0.014878626809300447,
+      "frequency_late_minus_early": -0.02247843234277273,
+      "frequency_late_minus_early_sem": 0.015061096599675838,
+      "frequency_late_minus_early_ci95_half_width": 0.029589289766905027,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 2.3801757812500002e-05,
+          "sem": 1.8503058218839382e-07,
+          "half95": 3.6351426842513963e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r112",
+      "number": 2,
+      "beta": 5.0,
+      "k": 20.0,
+      "omega": 0.1,
+      "initial": "synchronized",
+      "frequency": 0.6935557821698359,
+      "frequency_sem": 0.008368641019231703,
+      "frequency_ci95_half_width": 0.01644117627388326,
+      "frequency_late_minus_early": 0.01300889193212953,
+      "frequency_late_minus_early_sem": 0.015621642568808611,
+      "frequency_late_minus_early_ci95_half_width": 0.03069054803177116,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 1.19539794921875e-05,
+          "sem": 9.747685671637319e-08,
+          "half95": 1.9150471148361982e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r113",
+      "number": 2,
+      "beta": 5.0,
+      "k": 20.0,
+      "omega": 0.1,
+      "initial": "synchronized",
+      "frequency": 0.6864512903722262,
+      "frequency_sem": 0.008121712926462507,
+      "frequency_ci95_half_width": 0.0159560570901517,
+      "frequency_late_minus_early": -0.003960419191114734,
+      "frequency_late_minus_early_sem": 0.015531814782107791,
+      "frequency_late_minus_early_ci95_half_width": 0.030514070814974908,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 5.9282836914062504e-06,
+          "sem": 4.851886786706752e-08,
+          "half95": 9.532100341961404e-08,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r114",
+      "number": 2,
+      "beta": 5.0,
+      "k": 20.0,
+      "omega": 0.1,
+      "initial": "synchronized",
+      "frequency": 0.6986152391488913,
+      "frequency_sem": 0.007665099990467833,
+      "frequency_ci95_half_width": 0.015058987452157713,
+      "frequency_late_minus_early": 0.026240550879637947,
+      "frequency_late_minus_early_sem": 0.015470261151683139,
+      "frequency_late_minus_early_ci95_half_width": 0.030393141492545673,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 2.39453125e-05,
+          "sem": 1.7571201275592055e-07,
+          "half95": 3.45206846430621e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r115",
+      "number": 2,
+      "beta": 50.0,
+      "k": 50.0,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.9251983661934466,
+      "frequency_sem": 0.0040823914907572156,
+      "frequency_ci95_half_width": 0.008020336631036715,
+      "frequency_late_minus_early": -0.0047527794741348255,
+      "frequency_late_minus_early_sem": 0.007383238714136611,
+      "frequency_late_minus_early_ci95_half_width": 0.014505237934369367,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 6.77490234375e-08,
+          "sem": 6.778377661764392e-09,
+          "half95": 1.3316917493762014e-08,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r116",
+      "number": 2,
+      "beta": 50.0,
+      "k": 50.0,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.9254392865337804,
+      "frequency_sem": 0.00392904088072261,
+      "frequency_ci95_half_width": 0.007719061381507856,
+      "frequency_late_minus_early": -0.009109616465933439,
+      "frequency_late_minus_early_sem": 0.0073428322923586795,
+      "frequency_late_minus_early_ci95_half_width": 0.014425854782251696,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 3.0029296875e-08,
+          "sem": 2.9712572039534025e-09,
+          "half95": 5.837383074860134e-09,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r117",
+      "number": 2,
+      "beta": 50.0,
+      "k": 50.0,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.9287206967881946,
+      "frequency_sem": 0.003775681475444434,
+      "frequency_ci95_half_width": 0.007417768852692003,
+      "frequency_late_minus_early": 0.0016663031211414051,
+      "frequency_late_minus_early_sem": 0.007500654216961472,
+      "frequency_late_minus_early_ci95_half_width": 0.014735914453387674,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 1.40625e-07,
+          "sem": 1.3105663815541286e-08,
+          "half95": 2.5747612842084798e-08,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r118",
+      "number": 8,
+      "beta": 5.0,
+      "k": 150.0,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.4337619065819891,
+      "frequency_sem": 0.0008195352928227783,
+      "frequency_ci95_half_width": 0.0016100731505872205,
+      "frequency_late_minus_early": 0.0012935976486771153,
+      "frequency_late_minus_early_sem": 0.0015233260106469826,
+      "frequency_late_minus_early_ci95_half_width": 0.002992752515740929,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 6.341550261422892e-06,
+          "sem": 2.5510470001935757e-08,
+          "half95": 5.01183087155461e-08,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r119",
+      "number": 8,
+      "beta": 5.0,
+      "k": 150.0,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.43400609516321875,
+      "frequency_sem": 0.0008266684424509,
+      "frequency_ci95_half_width": 0.001624087059196088,
+      "frequency_late_minus_early": -2.644932782422144e-05,
+      "frequency_late_minus_early_sem": 0.0016314413117253848,
+      "frequency_late_minus_early_ci95_half_width": 0.0032051576982369953,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 3.2018131337162634e-06,
+          "sem": 1.2390290324267863e-08,
+          "half95": 2.4342177760730402e-08,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r120",
+      "number": 8,
+      "beta": 5.0,
+      "k": 150.0,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.4335643558631557,
+      "frequency_sem": 0.000817748860592498,
+      "frequency_ci95_half_width": 0.0016065634950610855,
+      "frequency_late_minus_early": 0.0012021109600559082,
+      "frequency_late_minus_early_sem": 0.001625640865919602,
+      "frequency_late_minus_early_ci95_half_width": 0.0031937620425097598,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 1.2453136724599383e-05,
+          "sem": 4.715943629565641e-08,
+          "half95": 9.265024074184011e-08,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r121",
+      "number": 2,
+      "beta": 5.0,
+      "k": 1.69,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.8858995608293718,
+      "frequency_sem": 0.0005119068474024169,
+      "frequency_ci95_half_width": 0.0010057010086356498,
+      "frequency_late_minus_early": 0.0006465161124111635,
+      "frequency_late_minus_early_sem": 0.0010050510230080537,
+      "frequency_late_minus_early_ci95_half_width": 0.001974540549122413,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 3.0989013671875e-05,
+          "sem": 9.706048240699295e-08,
+          "half95": 1.9068669534447546e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r122",
+      "number": 2,
+      "beta": 5.0,
+      "k": 1.69,
+      "omega": 1.0,
+      "initial": "death",
+      "frequency": 0.8855961275208546,
+      "frequency_sem": 0.0005058024393137331,
+      "frequency_ci95_half_width": 0.0009937081833724887,
+      "frequency_late_minus_early": -5.599081340709115e-05,
+      "frequency_late_minus_early_sem": 0.0009812535994488895,
+      "frequency_late_minus_early_ci95_half_width": 0.0019277877209509873,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 3.097760009765625e-05,
+          "sem": 9.526557797669565e-08,
+          "half95": 1.8716039518827625e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r123",
+      "number": 2,
+      "beta": 5.0,
+      "k": 1.69,
+      "omega": 1.0,
+      "initial": "death",
+      "frequency": 0.8839544224407748,
+      "frequency_sem": 0.000940871119889665,
+      "frequency_ci95_half_width": 0.0018484516061285294,
+      "frequency_late_minus_early": -0.00341366863123753,
+      "frequency_late_minus_early_sem": 0.0020394633965256912,
+      "frequency_late_minus_early_ci95_half_width": 0.004006764913126833,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 3.079931640625e-05,
+          "sem": 1.9308977164642448e-07,
+          "half95": 3.793474908324103e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r124",
+      "number": 2,
+      "beta": 5.0,
+      "k": 2.0,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.8730845147343883,
+      "frequency_sem": 0.0004944013711143965,
+      "frequency_ci95_half_width": 0.0009713094484351084,
+      "frequency_late_minus_early": 0.0007264848173578569,
+      "frequency_late_minus_early_sem": 0.0010183419886218754,
+      "frequency_late_minus_early_ci95_half_width": 0.002000652209068728,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 3.0809875488281246e-05,
+          "sem": 9.945879893044366e-08,
+          "half95": 1.9539846929104629e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r125",
+      "number": 2,
+      "beta": 5.0,
+      "k": 2.0,
+      "omega": 1.0,
+      "initial": "death",
+      "frequency": 0.8725265311467942,
+      "frequency_sem": 0.0004823487661703699,
+      "frequency_ci95_half_width": 0.0009476306931881293,
+      "frequency_late_minus_early": -0.0006123873408397495,
+      "frequency_late_minus_early_sem": 0.0009894996759333675,
+      "frequency_late_minus_early_ci95_half_width": 0.0019439881048290465,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 3.077093505859375e-05,
+          "sem": 9.397621442418529e-08,
+          "half95": 1.8462728934716928e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r126",
+      "number": 2,
+      "beta": 5.0,
+      "k": 4.0,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.8227520726820359,
+      "frequency_sem": 0.0005258460371354793,
+      "frequency_ci95_half_width": 0.0010330861808505556,
+      "frequency_late_minus_early": -0.0001946849355183701,
+      "frequency_late_minus_early_sem": 0.0010714421156644836,
+      "frequency_late_minus_early_ci95_half_width": 0.0021049736331645685,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 3.0659912109375e-05,
+          "sem": 9.343395911067727e-08,
+          "half95": 1.8356196521935124e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r127",
+      "number": 2,
+      "beta": 5.0,
+      "k": 4.0,
+      "omega": 1.0,
+      "initial": "death",
+      "frequency": 0.8249247195974312,
+      "frequency_sem": 0.0005427129753603871,
+      "frequency_ci95_half_width": 0.0010662232581751922,
+      "frequency_late_minus_early": 0.0007578534462311507,
+      "frequency_late_minus_early_sem": 0.0010584238394763421,
+      "frequency_late_minus_early_ci95_half_width": 0.002079397703560292,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 3.0491638183593753e-05,
+          "sem": 9.635032091812066e-08,
+          "half95": 1.8929149985280117e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r128",
+      "number": 2,
+      "beta": 50.0,
+      "k": 50.0,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.9242861755782361,
+      "frequency_sem": 0.0020920879245833737,
+      "frequency_ci95_half_width": 0.0041101519672659655,
+      "frequency_late_minus_early": 0.0016721606829103155,
+      "frequency_late_minus_early_sem": 0.003941289787242006,
+      "frequency_late_minus_early_ci95_half_width": 0.007743125794210575,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 1.22802734375e-07,
+          "sem": 5.747291052754106e-09,
+          "half95": 1.1291226983986152e-08,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r129",
+      "number": 2,
+      "beta": 50.0,
+      "k": 50.0,
+      "omega": 1.0,
+      "initial": "death",
+      "frequency": 0.9284358159773441,
+      "frequency_sem": 0.00372782672843942,
+      "frequency_ci95_half_width": 0.007323752592555688,
+      "frequency_late_minus_early": 0.011663486581921213,
+      "frequency_late_minus_early_sem": 0.006699962603758342,
+      "frequency_late_minus_early_ci95_half_width": 0.01316286192031329,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 1.1035156250000001e-07,
+          "sem": 1.0405423042874853e-08,
+          "half95": 2.0442673315665567e-08,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r130",
+      "number": 2,
+      "beta": 50.0,
+      "k": 50.0,
+      "omega": 1.0,
+      "initial": "death",
+      "frequency": 0.9277202684233967,
+      "frequency_sem": 0.002015516348437329,
+      "frequency_ci95_half_width": 0.003959718130028463,
+      "frequency_late_minus_early": -0.0033896500383933034,
+      "frequency_late_minus_early_sem": 0.004084865961391825,
+      "frequency_late_minus_early_ci95_half_width": 0.008025198018661618,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 1.1993408203125e-07,
+          "sem": 5.241192023343414e-09,
+          "half95": 1.0296936114601204e-08,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r131",
+      "number": 2,
+      "beta": 1.0,
+      "k": 20.0,
+      "omega": 1.0,
+      "initial": "synchronized",
+      "frequency": 0.734884089655395,
+      "frequency_sem": 0.0008117624655083043,
+      "frequency_ci95_half_width": 0.0015948025201790045,
+      "frequency_late_minus_early": -0.0012922076320274441,
+      "frequency_late_minus_early_sem": 0.0016537327232947945,
+      "frequency_late_minus_early_ci95_half_width": 0.0032489517893163123,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 0.00013952740478515626,
+          "sem": 2.0839051780789423e-07,
+          "half95": 4.094076002557396e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    },
+    {
+      "run_id": "r132",
+      "number": 2,
+      "beta": 5.0,
+      "k": 20.0,
+      "omega": 0.1,
+      "initial": "synchronized",
+      "frequency": 0.6910901110587001,
+      "frequency_sem": 0.003674814145118305,
+      "frequency_ci95_half_width": 0.0072196031583628,
+      "frequency_late_minus_early": 0.002741692297586436,
+      "frequency_late_minus_early_sem": 0.007955323867074053,
+      "frequency_late_minus_early_ci95_half_width": 0.01562916627846979,
+      "phase_resolution": {
+        "large_increment_fraction": {
+          "mean": 2.3873779296875e-05,
+          "sem": 8.343859273472235e-08,
+          "half95": 1.6392489629364798e-07,
+          "count": 512
+        },
+        "exact_origin_endpoint_count": 0
+      }
+    }
+  ],
+  "simulation_refinements": [
+    {
+      "changed": "initial_state",
+      "baseline_run": "r009",
+      "refined_run": "r010",
+      "frequency_change": -0.003407946313952581,
+      "frequency_change_sem": 0.0014077732512443682,
+      "frequency_change_ci95_half_width": 0.002762456415178954
+    },
+    {
+      "changed": "initial_state",
+      "baseline_run": "r011",
+      "refined_run": "r012",
+      "frequency_change": -0.002425251302534903,
+      "frequency_change_sem": 0.001377379195677118,
+      "frequency_change_ci95_half_width": 0.0027028181836165964
+    },
+    {
+      "changed": "initial_state",
+      "baseline_run": "r013",
+      "refined_run": "r014",
+      "frequency_change": -0.0002638405765320595,
+      "frequency_change_sem": 0.0013737548809298404,
+      "frequency_change_ci95_half_width": 0.0026957244652829324
+    },
+    {
+      "changed": "initial_state",
+      "baseline_run": "r015",
+      "refined_run": "r016",
+      "frequency_change": -0.0012225576500574098,
+      "frequency_change_sem": 0.0014756334034349556,
+      "frequency_change_ci95_half_width": 0.0028956272233952103
+    },
+    {
+      "changed": "initial_state",
+      "baseline_run": "r017",
+      "refined_run": "r018",
+      "frequency_change": 0.0018077782664613906,
+      "frequency_change_sem": 0.0014296261765494105,
+      "frequency_change_ci95_half_width": 0.002805344773371434
+    },
+    {
+      "changed": "initial_state",
+      "baseline_run": "r019",
+      "refined_run": "r020",
+      "frequency_change": 0.003611928188763991,
+      "frequency_change_sem": 0.0014319407141280562,
+      "frequency_change_ci95_half_width": 0.0028098799383043747
+    },
+    {
+      "changed": "initial_state",
+      "baseline_run": "r021",
+      "refined_run": "r022",
+      "frequency_change": 0.001308706418164829,
+      "frequency_change_sem": 0.0014467888438582778,
+      "frequency_change_ci95_half_width": 0.0028390314964713043
+    },
+    {
+      "changed": "initial_state",
+      "baseline_run": "r023",
+      "refined_run": "r024",
+      "frequency_change": -0.0004711344563017583,
+      "frequency_change_sem": 0.0015241508528236543,
+      "frequency_change_ci95_half_width": 0.0029908255748600007
+    },
+    {
+      "changed": "initial_state",
+      "baseline_run": "r025",
+      "refined_run": "r026",
+      "frequency_change": 0.00020614805212271214,
+      "frequency_change_sem": 0.001605219616064779,
+      "frequency_change_ci95_half_width": 0.0031499048804571
+    },
+    {
+      "changed": "initial_state",
+      "baseline_run": "r027",
+      "refined_run": "r028",
+      "frequency_change": -7.612560097147725e-05,
+      "frequency_change_sem": 0.0016320666645690902,
+      "frequency_change_ci95_half_width": 0.0032025846948410207
+    },
+    {
+      "changed": "initial_state",
+      "baseline_run": "r029",
+      "refined_run": "r030",
+      "frequency_change": 3.519209214364327e-05,
+      "frequency_change_sem": 0.0016193327130159696,
+      "frequency_change_ci95_half_width": 0.003177597639136981
+    },
+    {
+      "changed": "initial_state",
+      "baseline_run": "r031",
+      "refined_run": "r032",
+      "frequency_change": -0.0011794147126901189,
+      "frequency_change_sem": 0.0016113491588320655,
+      "frequency_change_ci95_half_width": 0.003161938863346027
+    },
+    {
+      "changed": "initial_state",
+      "baseline_run": "r033",
+      "refined_run": "r034",
+      "frequency_change": -0.0022091441077984886,
+      "frequency_change_sem": 0.0016182117884531943,
+      "frequency_change_ci95_half_width": 0.003175398950994639
+    },
+    {
+      "changed": "initial_state",
+      "baseline_run": "r035",
+      "refined_run": "r036",
+      "frequency_change": 0.0012735531940464284,
+      "frequency_change_sem": 0.0016386415890402863,
+      "frequency_change_ci95_half_width": 0.0032154867503913606
+    },
+    {
+      "changed": "initial_state",
+      "baseline_run": "r037",
+      "refined_run": "r038",
+      "frequency_change": -0.000784334511907181,
+      "frequency_change_sem": 0.0016538584548851452,
+      "frequency_change_ci95_half_width": 0.003245346445685831
+    },
+    {
+      "changed": "initial_state",
+      "baseline_run": "r039",
+      "refined_run": "r040",
+      "frequency_change": 8.960668295288077e-05,
+      "frequency_change_sem": 0.0016588188427972507,
+      "frequency_change_ci95_half_width": 0.0032551040634848606
+    },
+    {
+      "changed": "timestep",
+      "baseline_run": "r009",
+      "refined_run": "r101",
+      "frequency_change": -0.001334057971006164,
+      "frequency_change_sem": 0.0014430172096702779,
+      "frequency_change_ci95_half_width": 0.0028316234694972537
+    },
+    {
+      "changed": "timestep",
+      "baseline_run": "r009",
+      "refined_run": "r102",
+      "frequency_change": -0.0011965426996780604,
+      "frequency_change_sem": 0.0014279903493798884,
+      "frequency_change_ci95_half_width": 0.0028021310702490794
+    },
+    {
+      "changed": "burn_in",
+      "baseline_run": "r009",
+      "refined_run": "r103",
+      "frequency_change": -0.001354506272300049,
+      "frequency_change_sem": 0.001420110118072367,
+      "frequency_change_ci95_half_width": 0.00278666605043941
+    },
+    {
+      "changed": "timestep",
+      "baseline_run": "r015",
+      "refined_run": "r104",
+      "frequency_change": -0.0013641079678596846,
+      "frequency_change_sem": 0.0014637083232067283,
+      "frequency_change_ci95_half_width": 0.0028722219248904263
+    },
+    {
+      "changed": "timestep",
+      "baseline_run": "r015",
+      "refined_run": "r105",
+      "frequency_change": -0.0007616854953126362,
+      "frequency_change_sem": 0.0014860141254167006,
+      "frequency_change_ci95_half_width": 0.002916002693096175
+    },
+    {
+      "changed": "burn_in",
+      "baseline_run": "r015",
+      "refined_run": "r106",
+      "frequency_change": 0.0007430082850040653,
+      "frequency_change_sem": 0.0014793183014343958,
+      "frequency_change_ci95_half_width": 0.00290285987509123
+    },
+    {
+      "changed": "timestep",
+      "baseline_run": "r107",
+      "refined_run": "r108",
+      "frequency_change": 0.0035876473210754156,
+      "frequency_change_sem": 0.0024668677939610048,
+      "frequency_change_ci95_half_width": 0.004840776525668844
+    },
+    {
+      "changed": "timestep",
+      "baseline_run": "r107",
+      "refined_run": "r109",
+      "frequency_change": 0.0016193982468957202,
+      "frequency_change_sem": 0.0025402140304543104,
+      "frequency_change_ci95_half_width": 0.004984786991642061
+    },
+    {
+      "changed": "burn_in",
+      "baseline_run": "r107",
+      "refined_run": "r110",
+      "frequency_change": 0.006510607404448421,
+      "frequency_change_sem": 0.0023546670755977468,
+      "frequency_change_ci95_half_width": 0.0046205381531811114
+    },
+    {
+      "changed": "timestep",
+      "baseline_run": "r111",
+      "refined_run": "r112",
+      "frequency_change": -0.005819507511063193,
+      "frequency_change_sem": 0.011286671677205871,
+      "frequency_change_ci95_half_width": 0.022147959346459804
+    },
+    {
+      "changed": "timestep",
+      "baseline_run": "r111",
+      "refined_run": "r113",
+      "frequency_change": -0.01292399930867294,
+      "frequency_change_sem": 0.011104819940014424,
+      "frequency_change_ci95_half_width": 0.021790979607456983
+    },
+    {
+      "changed": "burn_in",
+      "baseline_run": "r111",
+      "refined_run": "r114",
+      "frequency_change": -0.0007600505320077833,
+      "frequency_change_sem": 0.010775368341924267,
+      "frequency_change_ci95_half_width": 0.021144378489673373
+    },
+    {
+      "changed": "timestep",
+      "baseline_run": "r060",
+      "refined_run": "r115",
+      "frequency_change": -0.004341390246357046,
+      "frequency_change_sem": 0.005545490839150131,
+      "frequency_change_ci95_half_width": 0.010881940308429275
+    },
+    {
+      "changed": "timestep",
+      "baseline_run": "r060",
+      "refined_run": "r116",
+      "frequency_change": -0.004100469906023307,
+      "frequency_change_sem": 0.005433590949425674,
+      "frequency_change_ci95_half_width": 0.010662296204781029
+    },
+    {
+      "changed": "burn_in",
+      "baseline_run": "r060",
+      "refined_run": "r117",
+      "frequency_change": -0.0008190596516091109,
+      "frequency_change_sem": 0.005323750460653219,
+      "frequency_change_ci95_half_width": 0.010446731520918597
+    },
+    {
+      "changed": "timestep",
+      "baseline_run": "r100",
+      "refined_run": "r118",
+      "frequency_change": 0.00033633181206099705,
+      "frequency_change_sem": 0.0011411848188830757,
+      "frequency_change_ci95_half_width": 0.0022393357830741848
+    },
+    {
+      "changed": "timestep",
+      "baseline_run": "r100",
+      "refined_run": "r119",
+      "frequency_change": 0.0005805203932906511,
+      "frequency_change_sem": 0.0011463181968420803,
+      "frequency_change_ci95_half_width": 0.0022494106126316298
+    },
+    {
+      "changed": "burn_in",
+      "baseline_run": "r100",
+      "refined_run": "r120",
+      "frequency_change": 0.00013878109322762455,
+      "frequency_change_sem": 0.0011399025807793445,
+      "frequency_change_ci95_half_width": 0.0022368193085833816
+    },
+    {
+      "changed": "measurement_duration",
+      "baseline_run": "r009",
+      "refined_run": "r121",
+      "frequency_change": -0.0016558745866759317,
+      "frequency_change_sem": 0.0011187181023672964,
+      "frequency_change_ci95_half_width": 0.002196126658708337
+    },
+    {
+      "changed": "measurement_duration",
+      "baseline_run": "r010",
+      "refined_run": "r122",
+      "frequency_change": 0.0014486384187594181,
+      "frequency_change_sem": 0.0011172197914412624,
+      "frequency_change_ci95_half_width": 0.0021932122702131305
+    },
+    {
+      "changed": "initial_state_long_duration",
+      "baseline_run": "r121",
+      "refined_run": "r122",
+      "frequency_change": -0.0003034333085172314,
+      "frequency_change_sem": 0.0007196420832839086,
+      "frequency_change_ci95_half_width": 0.0014121451889469877
+    },
+    {
+      "changed": "burn_in",
+      "baseline_run": "r010",
+      "refined_run": "r123",
+      "frequency_change": -0.00019306666132035133,
+      "frequency_change_sem": 0.0013702490354000501,
+      "frequency_change_ci95_half_width": 0.0026888334679882986
+    },
+    {
+      "changed": "measurement_duration",
+      "baseline_run": "r015",
+      "refined_run": "r124",
+      "frequency_change": -0.0011717454253524773,
+      "frequency_change_sem": 0.0011293486743333746,
+      "frequency_change_ci95_half_width": 0.0022171070016069566
+    },
+    {
+      "changed": "measurement_duration",
+      "baseline_run": "r016",
+      "refined_run": "r125",
+      "frequency_change": -0.0005071713628891361,
+      "frequency_change_sem": 0.0011743758176581947,
+      "frequency_change_ci95_half_width": 0.0023056636783819
+    },
+    {
+      "changed": "initial_state_long_duration",
+      "baseline_run": "r124",
+      "refined_run": "r125",
+      "frequency_change": -0.0005579835875940686,
+      "frequency_change_sem": 0.0006907192251456979,
+      "frequency_change_ci95_half_width": 0.001355390952097365
+    },
+    {
+      "changed": "measurement_duration",
+      "baseline_run": "r023",
+      "refined_run": "r126",
+      "frequency_change": -0.0015301140701728944,
+      "frequency_change_sem": 0.0012127307199953803,
+      "frequency_change_ci95_half_width": 0.0023808258629131043
+    },
+    {
+      "changed": "measurement_duration",
+      "baseline_run": "r024",
+      "refined_run": "r127",
+      "frequency_change": 0.0011136673015241794,
+      "frequency_change_sem": 0.0011930513196581995,
+      "frequency_change_ci95_half_width": 0.0023420641919318823
+    },
+    {
+      "changed": "initial_state_long_duration",
+      "baseline_run": "r126",
+      "refined_run": "r127",
+      "frequency_change": 0.0021726469153953154,
+      "frequency_change_sem": 0.0007556794481760186,
+      "frequency_change_ci95_half_width": 0.001482862384250737
+    },
+    {
+      "changed": "measurement_duration",
+      "baseline_run": "r060",
+      "refined_run": "r128",
+      "frequency_change": -0.005253580861567575,
+      "frequency_change_sem": 0.004296903565066205,
+      "frequency_change_ci95_half_width": 0.008434527584752556
+    },
+    {
+      "changed": "measurement_duration",
+      "baseline_run": "r129",
+      "refined_run": "r130",
+      "frequency_change": -0.0007155475539474265,
+      "frequency_change_sem": 0.004237805831805593,
+      "frequency_change_ci95_half_width": 0.008318752737711618
+    },
+    {
+      "changed": "initial_state",
+      "baseline_run": "r060",
+      "refined_run": "r129",
+      "frequency_change": -0.0011039404624595406,
+      "frequency_change_sem": 0.005289918759353346,
+      "frequency_change_ci95_half_width": 0.010380344108005311
+    },
+    {
+      "changed": "initial_state_long_duration",
+      "baseline_run": "r128",
+      "refined_run": "r130",
+      "frequency_change": 0.003434092845160608,
+      "frequency_change_sem": 0.0029050194551854063,
+      "frequency_change_ci95_half_width": 0.005700493896987326
+    },
+    {
+      "changed": "measurement_duration",
+      "baseline_run": "r107",
+      "refined_run": "r131",
+      "frequency_change": 0.002437767706150673,
+      "frequency_change_sem": 0.0018334539969542727,
+      "frequency_change_ci95_half_width": 0.0035993418637874984
+    },
+    {
+      "changed": "measurement_duration",
+      "baseline_run": "r111",
+      "refined_run": "r132",
+      "frequency_change": -0.008285178622199019,
+      "frequency_change_sem": 0.008417782608349739,
+      "frequency_change_ci95_half_width": 0.01652561660534926
+    }
+  ],
+  "uncertainty": "Pointwise 95% Student intervals across independent complete N-oscillator systems",
+  "normalization": "Effective frequency estimates and differences are divided by omega.",
+  "interpretation": "Measurement halves are paired within each independent system. Initial ensembles are reported separately."
+}
