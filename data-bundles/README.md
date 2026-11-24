@@ -1,7 +1,7 @@
 # Raw validation data
 
-The `validation-data.tar.gz` archive holds the raw validation records separately
-from the companion repository. [The manifest](validation-data.json) lists
+The `validation-data.tar.gz` archive contains the raw validation records and
+is available as a release download. [The manifest](validation-data.json) lists
 checksums for the archive and the files below.
 
 - Eight files of individual simulation measurements covering Figures 2–7,

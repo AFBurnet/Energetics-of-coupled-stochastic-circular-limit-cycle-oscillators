@@ -72,7 +72,7 @@ Exact comparisons, measurement-half checks and phase diagnostics are in the
 [baseline EPR](epr/data/validation.json), [long-run EPR](epr/long_runs/data/validation.json)
 and [effective frequency](frequency/data/validation.json) files.
 
-The EPR and frequency runs use Eq. (48). The saved quantities are:
+The EPR and frequency runs use Eq. (46). The saved quantities are:
 
 - `stratonovich_epr` — Full-drift midpoint Stratonovich estimate, shown by crosses in (a–c).
 - `observable_epr` — Time average of $`\beta\,\boldsymbol{f}_{\mathrm{rot}}\cdot\mathbf{A}`$ divided by $N\sigma_0$. The dot product uses the intrinsic rotational drift and the full drift.
